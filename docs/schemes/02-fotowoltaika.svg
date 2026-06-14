@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="pv" width="20" height="14" patternUnits="userSpaceOnUse">
+      <rect width="20" height="14" fill="#1a5276"/>
+      <rect x="1" y="1" width="18" height="12" fill="#2471a3"/>
+      <line x1="0" y1="7" x2="20" y2="7" stroke="#154360" stroke-width="0.5"/>
+      <line x1="10" y1="0" x2="10" y2="14" stroke="#154360" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="roof" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#95a5a6"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="620" fill="#fafafa"/>
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#2c3e50">Schemat rozmieszczenia paneli fotowoltaicznych</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#666">Rzut dachu domu szeregowego | skala schematyczna</text>
+
+  <!-- Compass small -->
+  <g transform="translate(780,100)">
+    <circle cx="0" cy="0" r="40" fill="#fff" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="0" y="-22" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">N</text>
+    <text x="0" y="30" text-anchor="middle" font-size="12" font-weight="bold" fill="#2980b9">S</text>
+    <text x="28" y="4" font-size="11" fill="#555">E</text>
+    <text x="-28" y="4" font-size="11" fill="#555">W</text>
+  </g>
+
+  <!-- Building roof plan - row house -->
+  <g transform="translate(200,120)">
+    <!-- North roof slope - no PV -->
+    <polygon points="0,80 250,80 250,200 0,200" fill="url(#roof)" stroke="#2c3e50" stroke-width="2"/>
+    <text x="125" y="145" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">poBudnie P</text>
+
+    <!-- South roof slope - with PV -->
+    <polygon points="0,200 250,200 250,320 0,320" fill="url(#pv)" stroke="#2c3e50" stroke-width="2"/>
+    <text x="125" y="265" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">poBudnie S  panele PV</text>
+
+    <!-- Ridge -->
+    <line x1="0" y1="200" x2="250" y2="200" stroke="#2c3e50" stroke-width="3"/>
+    <text x="125" y="195" text-anchor="middle" font-size="10" fill="#2c3e50">kalenica</text>
+
+    <!-- Adjacent houses outline -->
+    <rect x="-60" y="80" width="55" height="240" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" stroke-dasharray="4,3"/>
+    <rect x="255" y="80" width="55" height="240" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" stroke-dasharray="4,3"/>
+    <text x="125" y="60" text-anchor="middle" font-size="11" fill="#888">cig szeregowy</text>
+  </g>
+
+  <!-- Detail callout -->
+  <rect x="520" y="140" width="320" height="200" fill="#fff" stroke="#2980b9" stroke-width="2" rx="8"/>
+  <text x="680" y="168" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a5276">SzczegóB monta|u</text>
+  <rect x="540" y="185" width="120" height="80" fill="url(#pv)" stroke="#154360" stroke-width="1"/>
+  <text x="600" y="230" text-anchor="middle" font-size="10" fill="#fff">moduB PV</text>
+  <line x1="660" y1="225" x2="700" y2="225" stroke="#333" stroke-width="1"/>
+  <text x="710" y="220" font-size="11" fill="#333">46 kWp / dom</text>
+  <text x="710" y="238" font-size="11" fill="#333">nachylenie ~38°</text>
+  <text x="710" y="256" font-size="11" fill="#333">azymut 180° (S)</text>
+  <text x="540" y="295" font-size="11" fill="#555">" monta| na poBaci poBudniowej</text>
+  <text x="540" y="312" font-size="11" fill="#555">" integracja z dachem (on-roof)</text>
+  <text x="540" y="329" font-size="11" fill="#555">" ok. 1216 moduBów na budynek</text>
+
+  <!-- Energy flow -->
+  <g transform="translate(120,400)">
+    <rect x="0" y="0" width="130" height="60" fill="url(#pv)" stroke="#154360" rx="4"/>
+    <text x="65" y="25" text-anchor="middle" font-size="11" fill="#fff">Panele PV</text>
+    <text x="65" y="42" text-anchor="middle" font-size="10" fill="#aed6f1">DC</text>
+    <line x1="130" y1="30" x2="180" y2="30" stroke="#27ae60" stroke-width="2" marker-end="url(#arr)"/>
+    <rect x="180" y="5" width="110" height="50" fill="#fff" stroke="#27ae60" stroke-width="2" rx="4"/>
+    <text x="235" y="25" text-anchor="middle" font-size="11" fill="#333">Falownik</text>
+    <text x="235" y="42" text-anchor="middle" font-size="10" fill="#666">AC</text>
+    <line x1="290" y1="30" x2="340" y2="30" stroke="#27ae60" stroke-width="2"/>
+    <rect x="340" y="5" width="120" height="50" fill="#fef9e7" stroke="#f39c12" stroke-width="2" rx="4"/>
+    <text x="400" y="25" text-anchor="middle" font-size="11" fill="#333">Dom</text>
+    <text x="400" y="42" text-anchor="middle" font-size="10" fill="#666">ogrzewanie, AGD</text>
+    <line x1="400" y1="55" x2="400" y2="85" stroke="#3498db" stroke-width="1.5" stroke-dasharray="4,3"/>
+    <text x="400" y="100" text-anchor="middle" font-size="10" fill="#3498db">nadwy|ka ’ sie</text>
+  </g>
+  <defs><marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#27ae60"/></marker></defs>
+
+  <!-- Legend -->
+  <rect x="60" y="510" width="780" height="95" fill="#fff" stroke="#bdc3c7" rx="6"/>
+  <rect x="80" y="530" width="24" height="16" fill="url(#pv)" stroke="#154360"/>
+  <text x="112" y="543" font-size="12" fill="#333">Panele fotowoltaiczne na poBaci poBudniowej (maksymalna efektywno[)</text>
+  <rect x="80" y="555" width="24" height="16" fill="#95a5a6"/>
+  <text x="112" y="568" font-size="12" fill="#333">PoBaci póBnocna bez paneli  optymalne nasBonecznienie poBudnia</text>
+  <text x="80" y="589" font-size="12" fill="#333">Szacunkowa produkcja: 40005000 kWh/rok na dom | redukcja rachunków za energi o 4060%</text>
+</svg>

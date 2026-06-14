@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="garden" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect width="14" height="14" fill="#d5f5e3"/>
+      <rect x="1" y="1" width="5" height="5" fill="#82e0aa" opacity="0.5"/>
+      <rect x="8" y="8" width="5" height="5" fill="#58d68d" opacity="0.5"/>
+    </pattern>
+    <pattern id="park" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#abebc6"/>
+    </pattern>
+    <pattern id="play" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#fdebd0"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="680" fill="#fafafa"/>
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#2c3e50">Schemat rozwizaD spoBecznych</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#666">Wspólny ogród spoBeczny i przestrzenie rekreacyjne | rzut caBego osiedla (schemat)</text>
+
+  <!-- Master plan -->
+  <g transform="translate(100,75)">
+    <!-- Central park -->
+    <circle cx="300" cy="250" r="85" fill="url(#park)" stroke="#27ae60" stroke-width="3"/>
+    <text x="300" y="240" text-anchor="middle" font-size="12" fill="#1e8449" font-weight="bold">PARK</text>
+    <text x="300" y="258" text-anchor="middle" font-size="11" fill="#1e8449">CENTRALNY</text>
+    <text x="300" y="274" text-anchor="middle" font-size="9" fill="#1e8449">rekreacja, Bawki, place zabaw</text>
+
+    <!-- Community garden -->
+    <rect x="230" y="30" width="140" height="70" fill="url(#garden)" stroke="#1e8449" stroke-width="2" rx="6"/>
+    <text x="300" y="58" text-anchor="middle" font-size="11" fill="#145a32" font-weight="bold">WSPÓLNY</text>
+    <text x="300" y="74" text-anchor="middle" font-size="11" fill="#145a32" font-weight="bold">OGRÓD SPOAECZNY</text>
+    <text x="300" y="90" text-anchor="middle" font-size="9" fill="#145a32">grzdki, szklarnia, kompostownik</text>
+
+    <!-- 6 clusters -->
+    <g id="clusters">
+      <!-- Cluster 1 top-left -->
+      <rect x="30" y="30" width="120" height="100" fill="#fadbd8" stroke="#2c3e50" stroke-width="1.5" opacity="0.7"/>
+      <rect x="50" y="50" width="80" height="60" fill="#d5f5e3" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+      <text x="90" y="85" text-anchor="middle" font-size="8" fill="#1e8449">wntrze 1</text>
+
+      <!-- Cluster 2 top-right -->
+      <rect x="450" y="30" width="120" height="100" fill="#d6eaf8" stroke="#2c3e50" stroke-width="1.5" opacity="0.7"/>
+      <rect x="470" y="50" width="80" height="60" fill="#d5f5e3" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+      <text x="510" y="85" text-anchor="middle" font-size="8" fill="#1e8449">wntrze 2</text>
+
+      <!-- Cluster 3 left -->
+      <rect x="10" y="170" width="100" height="120" fill="#fdebd0" stroke="#2c3e50" stroke-width="1.5" opacity="0.7"/>
+      <rect x="25" y="195" width="70" height="70" fill="#d5f5e3" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+      <text x="60" y="235" text-anchor="middle" font-size="8" fill="#1e8449">wntrze 3</text>
+
+      <!-- Cluster 4 right -->
+      <rect x="490" y="170" width="100" height="120" fill="#e8daef" stroke="#2c3e50" stroke-width="1.5" opacity="0.7"/>
+      <rect x="505" y="195" width="70" height="70" fill="#d5f5e3" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+      <text x="540" y="235" text-anchor="middle" font-size="8" fill="#1e8449">wntrze 4</text>
+
+      <!-- Cluster 5 bottom-left -->
+      <rect x="30" y="370" width="120" height="100" fill="#d5f5e3" stroke="#2c3e50" stroke-width="1.5" opacity="0.7"/>
+      <rect x="50" y="390" width="80" height="60" fill="#abebc6" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+      <text x="90" y="425" text-anchor="middle" font-size="8" fill="#1e8449">wntrze 5</text>
+
+      <!-- Cluster 6 bottom-right -->
+      <rect x="450" y="370" width="120" height="100" fill="#fadbd8" stroke="#2c3e50" stroke-width="1.5" opacity="0.7"/>
+      <rect x="470" y="390" width="80" height="60" fill="#abebc6" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+      <text x="510" y="425" text-anchor="middle" font-size="8" fill="#1e8449">wntrze 6</text>
+    </g>
+
+    <!-- Paths connecting -->
+    <line x1="300" y1="100" x2="300" y2="165" stroke="#7d6608" stroke-width="3" stroke-dasharray="6,3"/>
+    <line x1="300" y1="335" x2="300" y2="370" stroke="#7d6608" stroke-width="3" stroke-dasharray="6,3"/>
+    <line x1="150" y1="250" x2="215" y2="250" stroke="#7d6608" stroke-width="3" stroke-dasharray="6,3"/>
+    <line x1="385" y1="250" x2="450" y2="250" stroke="#7d6608" stroke-width="3" stroke-dasharray="6,3"/>
+
+    <!-- Icons in courtyards -->
+    <text x="90" y="72" font-size="14">>‘</text>
+    <text x="510" y="72" font-size="14">>‘</text>
+    <text x="60" y="220" font-size="14">>‘</text>
+    <text x="540" y="220" font-size="14">>‘</text>
+
+    <!-- Central park icons -->
+    <text x="270" y="265" font-size="16">=Ý</text>
+    <text x="310" y="265" font-size="16">>‘</text>
+    <text x="330" y="290" font-size="14">=¶</text>
+  </g>
+
+  <!-- Detail: Community garden -->
+  <rect x="60" y="500" width="380" height="160" fill="#fff" stroke="#1e8449" stroke-width="2" rx="8"/>
+  <text x="250" y="525" text-anchor="middle" font-size="14" font-weight="bold" fill="#145a32">Wspólny ogród spoBeczny  szczegóB</text>
+  <g transform="translate(80,540)">
+    <rect x="0" y="0" width="50" height="40" fill="#82e0aa" stroke="#27ae60"/>
+    <text x="25" y="55" text-anchor="middle" font-size="8">grzdka 1</text>
+    <rect x="60" y="0" width="50" height="40" fill="#82e0aa" stroke="#27ae60"/>
+    <text x="85" y="55" text-anchor="middle" font-size="8">grzdka 2</text>
+    <rect x="120" y="0" width="50" height="40" fill="#82e0aa" stroke="#27ae60"/>
+    <text x="145" y="55" text-anchor="middle" font-size="8">grzdka 3</text>
+    <rect x="180" y="0" width="50" height="40" fill="#82e0aa" stroke="#27ae60"/>
+    <text x="205" y="55" text-anchor="middle" font-size="8">grzdka 4</text>
+    <rect x="250" y="5" width="70" height="35" fill="#d5f5e3" stroke="#1e8449" stroke-dasharray="3,2"/>
+    <text x="285" y="28" text-anchor="middle" font-size="8">szklarnia</text>
+    <rect x="90" y="70" width="80" height="30" fill="#6e4c2a" opacity="0.5" stroke="#4a3728"/>
+    <text x="130" y="90" text-anchor="middle" font-size="8" fill="#fff">kompostownik</text>
+  </g>
+  <text x="80" y="630" font-size="11" fill="#333">Powierzchnia: ~400 m² | zarzdzanie: wspólnota mieszkaDców | grzdki dzier|awione indywidualnie</text>
+  <text x="80" y="648" font-size="11" fill="#333">Funkcja: uprawa warzyw, integracja midzypokoleniowa, edukacja ekologiczna dzieci</text>
+
+  <!-- Detail: Recreation -->
+  <rect x="460" y="500" width="380" height="160" fill="#fff" stroke="#2980b9" stroke-width="2" rx="8"/>
+  <text x="650" y="525" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a5276">PrzestrzeD rekreacyjna  elementy</text>
+  <text x="480" y="550" font-size="11" fill="#333">>‘ Aawki i miejsca odpoczynku (min. 4 w ka|dym wntrzu zielonym)</text>
+  <text x="480" y="572" font-size="11" fill="#333">=Ý Plac zabaw w parku centralnym (drewno, projektowanie uniwersalne)</text>
+  <text x="480" y="594" font-size="11" fill="#333"><Ã Zcie|ki biegowe / spacerowe wokóB parku centralnego (~400 m ptla)</text>
+  <text x="480" y="616" font-size="11" fill="#333">=% Strefa grillowania w parku (2 stanowiska, odlegBo[ od zabudowy min. 10 m)</text>
+  <text x="480" y="638" font-size="11" fill="#333">=Ú Altana ssiedzka  miejsce spotkaD, gry planszowe, imprezy lokalne</text>
+  <text x="480" y="655" font-size="11" fill="#333">Dostpno[: wszystkie przestrzenie bez barier, nawierzchnie twarde i równe</text>
+
+  <!-- Legend -->
+  <rect x="60" y="455" width="780" height="35" fill="#fff" stroke="#bdc3c7" rx="4"/>
+  <rect x="80" y="465" width="16" height="12" fill="#fadbd8" stroke="#2c3e50"/>
+  <text x="102" y="475" font-size="10" fill="#333">zabudowa szeregowa</text>
+  <rect x="220" y="465" width="16" height="12" fill="#d5f5e3" stroke="#27ae60"/>
+  <text x="242" y="475" font-size="10" fill="#333">wspólne wntrze zielone (×6)</text>
+  <circle cx="400" cy="471" r="8" fill="url(#park)" stroke="#27ae60"/>
+  <text x="414" y="475" font-size="10" fill="#333">park centralny</text>
+  <rect x="530" y="465" width="16" height="12" fill="url(#garden)" stroke="#1e8449"/>
+  <text x="552" y="475" font-size="10" fill="#333">ogród spoBeczny</text>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#e67e22"/>
+    </marker>
+    <pattern id="grass" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#d5f0d5"/>
+      <circle cx="3" cy="3" r="1" fill="#7cb87c"/>
+      <circle cx="9" cy="8" r="1" fill="#7cb87c"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="620" fill="#fafafa"/>
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#2c3e50">Orientacja budynków wzgldem stron [wiata  rozwizanie pasywne</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#666">Schemat przekroju przez dom szeregowy | Projekt: Park midzy domami</text>
+
+  <!-- Compass -->
+  <g transform="translate(760,120)">
+    <circle cx="0" cy="0" r="52" fill="#fff" stroke="#2c3e50" stroke-width="2"/>
+    <text x="0" y="-30" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">N</text>
+    <text x="0" y="42" text-anchor="middle" font-size="14" font-weight="bold" fill="#2980b9">S</text>
+    <text x="38" y="5" text-anchor="middle" font-size="13" fill="#555">E</text>
+    <text x="-38" y="5" text-anchor="middle" font-size="13" fill="#555">W</text>
+    <line x1="0" y1="-18" x2="0" y2="18" stroke="#ccc" stroke-width="1"/>
+    <line x1="-18" y1="0" x2="18" y2="0" stroke="#ccc" stroke-width="1"/>
+    <polygon points="0,-22 -6,-8 6,-8" fill="#c0392b"/>
+  </g>
+
+  <!-- Sun path arc -->
+  <path d="M 120 200 Q 300 60 480 200" fill="none" stroke="#f39c12" stroke-width="2" stroke-dasharray="6,4"/>
+  <circle cx="300" cy="95" r="22" fill="#f1c40f" stroke="#e67e22" stroke-width="2"/>
+  <text x="300" y="72" text-anchor="middle" font-size="11" fill="#e67e22">droga sBoDca (lato)</text>
+
+  <!-- Ground -->
+  <rect x="80" y="380" width="620" height="30" fill="#c8b89a"/>
+  <rect x="80" y="410" width="620" height="80" fill="url(#grass)"/>
+
+  <!-- Row of houses - section view -->
+  <g>
+    <!-- House 1 -->
+    <polygon points="140,380 140,260 220,220 300,260 300,380" fill="#ecf0f1" stroke="#2c3e50" stroke-width="2"/>
+    <rect x="175" y="290" width="55" height="90" fill="#85c1e9" stroke="#2980b9" stroke-width="1.5"/>
+    <text x="202" y="345" text-anchor="middle" font-size="9" fill="#1a5276">okna S</text>
+    <rect x="250" y="310" width="30" height="70" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1"/>
+    <text x="265" y="355" text-anchor="middle" font-size="8" fill="#555">N</text>
+
+    <!-- House 2 -->
+    <polygon points="300,380 300,260 380,220 460,260 460,380" fill="#fadbd8" stroke="#2c3e50" stroke-width="2"/>
+    <rect x="335" y="290" width="55" height="90" fill="#85c1e9" stroke="#2980b9" stroke-width="1.5"/>
+    <rect x="410" y="310" width="30" height="70" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1"/>
+
+    <!-- House 3 -->
+    <polygon points="460,380 460,260 540,220 620,260 620,380" fill="#d5f5e3" stroke="#2c3e50" stroke-width="2"/>
+    <rect x="495" y="290" width="55" height="90" fill="#85c1e9" stroke="#2980b9" stroke-width="1.5"/>
+    <rect x="570" y="310" width="30" height="70" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1"/>
+  </g>
+
+  <!-- Deciduous trees south -->
+  <g>
+    <ellipse cx="202" cy="430" rx="28" ry="35" fill="#27ae60" opacity="0.85"/>
+    <rect x="198" y="430" width="8" height="25" fill="#6e4c2a"/>
+    <ellipse cx="367" cy="430" rx="28" ry="35" fill="#27ae60" opacity="0.85"/>
+    <rect x="363" y="430" width="8" height="25" fill="#6e4c2a"/>
+    <ellipse cx="527" cy="430" rx="28" ry="35" fill="#27ae60" opacity="0.85"/>
+    <rect x="523" y="430" width="8" height="25" fill="#6e4c2a"/>
+    <text x="367" y="478" text-anchor="middle" font-size="11" fill="#1e8449">drzewa li[ciaste (zacienienie latem)</text>
+  </g>
+
+  <!-- Sun rays to south facade -->
+  <line x1="300" y1="115" x2="367" y2="290" stroke="#f39c12" stroke-width="1.5" marker-end="url(#arrow)" opacity="0.7"/>
+  <line x1="280" y1="120" x2="335" y2="290" stroke="#f39c12" stroke-width="1.5" marker-end="url(#arrow)" opacity="0.7"/>
+  <text x="250" y="200" font-size="11" fill="#e67e22">nasBonecznienie zim</text>
+
+  <!-- Winter sun lower -->
+  <circle cx="160" cy="250" r="14" fill="#f9e79f" stroke="#f39c12" stroke-width="1.5"/>
+  <line x1="174" y1="250" x2="335" y2="320" stroke="#f39c12" stroke-width="1" stroke-dasharray="4,3" opacity="0.6"/>
+  <text x="100" y="248" font-size="10" fill="#d68910">sBoDce zim (ni|ej)</text>
+
+  <!-- Legend -->
+  <rect x="60" y="510" width="780" height="95" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="6"/>
+  <rect x="80" y="530" width="24" height="16" fill="#85c1e9" stroke="#2980b9"/>
+  <text x="112" y="543" font-size="12" fill="#333">Du|e przeszklenia od poBudnia  maksymalne zyski solarne zim</text>
+  <rect x="80" y="555" width="24" height="16" fill="#bdc3c7" stroke="#7f8c8d"/>
+  <text x="112" y="568" font-size="12" fill="#333">Ograniczone okna od póBnocy  minimalne straty ciepBa</text>
+  <ellipse cx="92" cy="585" rx="10" ry="12" fill="#27ae60"/>
+  <text x="112" y="589" font-size="12" fill="#333">Drzewa li[ciaste od poBudnia  cieD latem, nasBonecznienie zim (li[cie opadaj)</text>
+</svg>
