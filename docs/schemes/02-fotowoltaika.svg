@@ -1,53 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="Arial, Helvetica, sans-serif">
-  <defs>
-    <pattern id="pv" width="20" height="14" patternUnits="userSpaceOnUse">
-      <rect width="20" height="14" fill="#1a5276"/>
-      <rect x="1" y="1" width="18" height="12" fill="#2471a3"/>
-      <line x1="0" y1="7" x2="20" y2="7" stroke="#154360" stroke-width="0.5"/>
-      <line x1="10" y1="0" x2="10" y2="14" stroke="#154360" stroke-width="0.5"/>
-    </pattern>
-    <pattern id="roof" width="8" height="8" patternUnits="userSpaceOnUse">
-      <rect width="8" height="8" fill="#95a5a6"/>
-    </pattern>
-    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L6,3 L0,6 Z" fill="#27ae60"/>
-    </marker>
-  </defs>
-  <rect width="900" height="620" fill="#fafafa"/>
-  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#2c3e50">Schemat rozmieszczenia paneli fotowoltaicznych</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#666">Rzut dachu domu szeregowego | skala schematyczna</text>
-  <g transform="translate(780,100)">
-    <circle cx="0" cy="0" r="40" fill="#fff" stroke="#2c3e50" stroke-width="1.5"/>
-    <text x="0" y="-22" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">N</text>
-    <text x="0" y="30" text-anchor="middle" font-size="12" font-weight="bold" fill="#2980b9">S</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Century Gothic, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <text x="260" y="32" text-anchor="middle" font-size="15" font-weight="600" fill="#222">Panele fotowoltaiczne</text>
+
+  <!-- Isometric row houses -->
+  <g transform="translate(60,70)">
+    <!-- House 1 -->
+    <polygon points="0,80 60,50 120,80 120,140 0,140" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+    <polygon points="0,80 60,50 120,80 60,110" fill="#e0e0e0" stroke="#222" stroke-width="1.2"/>
   </g>
-  <g transform="translate(200,120)">
-    <polygon points="0,80 250,80 250,200 0,200" fill="url(#roof)" stroke="#2c3e50" stroke-width="2"/>
-    <text x="125" y="145" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">polnoc</text>
-    <polygon points="0,200 250,200 250,320 0,320" fill="url(#pv)" stroke="#2c3e50" stroke-width="2"/>
-    <text x="125" y="265" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">poludnie - panele PV</text>
-    <line x1="0" y1="200" x2="250" y2="200" stroke="#2c3e50" stroke-width="3"/>
-    <text x="125" y="60" text-anchor="middle" font-size="11" fill="#888">ciag szeregowy</text>
+  <g transform="translate(180,70)">
+    <polygon points="0,80 60,50 120,80 120,140 0,140" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+    <polygon points="0,80 60,50 120,80 60,110" fill="#e0e0e0" stroke="#222" stroke-width="1.2"/>
+    <!-- PV on south slope -->
+    <polygon points="0,80 60,50 120,80 60,110" fill="#4a6fa5" stroke="#222" stroke-width="1.2" opacity="0.85"/>
+    <line x1="15" y1="72" x2="105" y2="72" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="30" y1="65" x2="90" y2="65" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="45" y1="58" x2="75" y2="58" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="60" y1="50" x2="60" y2="110" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="30" y1="65" x2="30" y2="95" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="90" y1="65" x2="90" y2="95" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
   </g>
-  <rect x="520" y="140" width="320" height="200" fill="#fff" stroke="#2980b9" stroke-width="2" rx="8"/>
-  <text x="680" y="168" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a5276">Szczegol montazu</text>
-  <text x="540" y="200" font-size="11" fill="#333">Moc: 4-6 kWp / dom</text>
-  <text x="540" y="220" font-size="11" fill="#333">Nachylenie ok. 38 stopni</text>
-  <text x="540" y="240" font-size="11" fill="#333">Azymut 180 stopni (poludnie)</text>
-  <text x="540" y="270" font-size="11" fill="#555">- montaz na polaci poludniowej</text>
-  <text x="540" y="290" font-size="11" fill="#555">- ok. 12-16 modulow na budynek</text>
-  <g transform="translate(120,400)">
-    <rect x="0" y="0" width="130" height="60" fill="url(#pv)" stroke="#154360" rx="4"/>
-    <text x="65" y="35" text-anchor="middle" font-size="11" fill="#fff">Panele PV</text>
-    <line x1="130" y1="30" x2="180" y2="30" stroke="#27ae60" stroke-width="2" marker-end="url(#arr)"/>
-    <rect x="180" y="5" width="110" height="50" fill="#fff" stroke="#27ae60" stroke-width="2" rx="4"/>
-    <text x="235" y="35" text-anchor="middle" font-size="11" fill="#333">Falownik</text>
-    <line x1="290" y1="30" x2="340" y2="30" stroke="#27ae60" stroke-width="2"/>
-    <rect x="340" y="5" width="120" height="50" fill="#fef9e7" stroke="#f39c12" stroke-width="2" rx="4"/>
-    <text x="400" y="35" text-anchor="middle" font-size="11" fill="#333">Dom</text>
+  <g transform="translate(300,70)">
+    <polygon points="0,80 60,50 120,80 120,140 0,140" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+    <polygon points="0,80 60,50 120,80 60,110" fill="#4a6fa5" stroke="#222" stroke-width="1.2" opacity="0.85"/>
+    <line x1="60" y1="50" x2="60" y2="110" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="30" y1="65" x2="90" y2="65" stroke="#fff" stroke-width="0.5" opacity="0.4"/>
   </g>
-  <rect x="60" y="510" width="780" height="95" fill="#fff" stroke="#bdc3c7" rx="6"/>
-  <text x="80" y="543" font-size="12" fill="#333">Panele na polaci poludniowej - maksymalna efektywnosc</text>
-  <text x="80" y="568" font-size="12" fill="#333">Produkcja: 4000-5000 kWh/rok na dom | redukcja rachunkow o 40-60%</text>
+
+  <!-- Ground -->
+  <line x1="40" y1="250" x2="480" y2="250" stroke="#222" stroke-width="1.5"/>
+  <rect x="40" y="250" width="440" height="20" fill="#f3f3f3"/>
+
+  <!-- Arrow flow diagram -->
+  <g transform="translate(80,275)">
+    <rect x="0" y="0" width="70" height="40" fill="#4a6fa5" stroke="#222" stroke-width="1" rx="2"/>
+    <text x="35" y="18" text-anchor="middle" font-size="8" fill="#fff">PV</text>
+    <text x="35" y="30" text-anchor="middle" font-size="7" fill="#dceefb">DC</text>
+    <line x1="70" y1="20" x2="100" y2="20" stroke="#222" stroke-width="1" marker-end="url(#ar)"/>
+    <rect x="100" y="5" width="65" height="30" fill="#efefef" stroke="#222" stroke-width="1" rx="2"/>
+    <text x="132" y="24" text-anchor="middle" font-size="8" fill="#444">falownik</text>
+    <line x1="165" y1="20" x2="195" y2="20" stroke="#222" stroke-width="1" marker-end="url(#ar)"/>
+    <rect x="195" y="5" width="65" height="30" fill="#efefef" stroke="#222" stroke-width="1" rx="2"/>
+    <text x="227" y="24" text-anchor="middle" font-size="8" fill="#444">dom</text>
+    <line x1="260" y1="20" x2="290" y2="20" stroke="#222" stroke-width="1" marker-end="url(#ar)"/>
+    <rect x="290" y="5" width="80" height="30" fill="#f5f5f5" stroke="#222" stroke-width="1" rx="2"/>
+    <text x="330" y="24" text-anchor="middle" font-size="8" fill="#444">siec</text>
+  </g>
+  <defs><marker id="ar" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#222"/></marker></defs>
+
+  <!-- Labels on roof -->
+  <text x="240" y="155" text-anchor="middle" font-size="9" fill="#4a6fa5" font-weight="600">poludnie</text>
+  <text x="120" y="155" text-anchor="middle" font-size="9" fill="#999">polnoc</text>
+
+  <!-- Specs box -->
+  <rect x="340" y="80" width="130" height="90" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+  <text x="405" y="100" text-anchor="middle" font-size="9" fill="#444" font-weight="600">parametry</text>
+  <text x="350" y="118" font-size="8" fill="#666">4-6 kWp / dom</text>
+  <text x="350" y="132" font-size="8" fill="#666">nachylenie 38 stopni</text>
+  <text x="350" y="146" font-size="8" fill="#666">12-16 modulow</text>
+  <text x="350" y="160" font-size="8" fill="#666">4000-5000 kWh/rok</text>
+
+  <!-- Description -->
+  <text x="260" y="350" text-anchor="middle" font-size="10" fill="#444">Panele montowane na polaci poludniowej dachu kazdego budynku.</text>
+  <text x="260" y="366" text-anchor="middle" font-size="10" fill="#444">Energia zasila ogrzewanie i urzadzenia domowe. Nadwyzka trafia do sieci.</text>
+  <text x="260" y="382" text-anchor="middle" font-size="10" fill="#444">Redukcja rachunkow za energie o 40-60%.</text>
 </svg>
