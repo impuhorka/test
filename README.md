@@ -18,7 +18,7 @@ Opis projektu architektoniczno-urbanistycznego — zespół mieszkaniowy w Rudzi
 | 4 | Analiza terenu | analiza + wnioski | [docs/04-analiza-terenu.md](docs/04-analiza-terenu.md) |
 | 5 | Opis sylwetki OzSP | profil + rozwiązania | [docs/05-opis-sylwetki-ozsp.md](docs/05-opis-sylwetki-ozsp.md) |
 | 6 | Opis techniczny | konstrukcja, instalacje | [docs/06-opis-techniczny.md](docs/06-opis-techniczny.md) |
-| 7 | Schematy (SVG) | PV, nawierzchnie, orientacja, bioróżnorodność, społeczne | [docs/schemes/README.md](docs/schemes/README.md) |
+| 7 | Schematy (PNG + HTML) | PV, nawierzchnie, orientacja, bioróżnorodność, społeczne | [docs/schemes/podglad.html](docs/schemes/podglad.html) — otwórz w przeglądarce |
 
 ---
 
