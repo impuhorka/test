@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" font-family="Century Gothic, Futura, Arial, sans-serif">
+  <rect width="480" height="200" fill="#ffffff"/>
+
+  <!-- Three house icons -->
+  <g transform="translate(40, 20)">
+    <!-- House 1 - blue -->
+    <g transform="translate(0, 0)">
+      <polygon points="0,90 35,90 35,45 55,10 75,45 75,90" fill="#9eb9c8" stroke="#2c2c2c" stroke-width="1.8" stroke-linejoin="round"/>
+      <polygon points="35,45 55,10 75,45 55,32" fill="#b8cdd8" stroke="#2c2c2c" stroke-width="1.8" stroke-linejoin="round"/>
+      <rect x="48" y="58" width="14" height="32" fill="#ffffff" stroke="#2c2c2c" stroke-width="1.5"/>
+      <rect x="42" y="48" width="10" height="18" fill="#dceefb" stroke="#2c2c2c" stroke-width="1.2"/>
+    </g>
+    <!-- House 2 - pink -->
+    <g transform="translate(95, 0)">
+      <polygon points="0,90 35,90 35,45 55,10 75,45 75,90" fill="#c9a8a8" stroke="#2c2c2c" stroke-width="1.8" stroke-linejoin="round"/>
+      <polygon points="35,45 55,10 75,45 55,32" fill="#dbbfbf" stroke="#2c2c2c" stroke-width="1.8" stroke-linejoin="round"/>
+      <rect x="48" y="58" width="14" height="32" fill="#ffffff" stroke="#2c2c2c" stroke-width="1.5"/>
+      <rect x="42" y="48" width="10" height="18" fill="#f5e0e0" stroke="#2c2c2c" stroke-width="1.2"/>
+    </g>
+    <!-- House 3 - yellow -->
+    <g transform="translate(190, 0)">
+      <polygon points="0,90 35,90 35,45 55,10 75,45 75,90" fill="#d4c48a" stroke="#2c2c2c" stroke-width="1.8" stroke-linejoin="round"/>
+      <polygon points="35,45 55,10 75,45 55,32" fill="#e8dba8" stroke="#2c2c2c" stroke-width="1.8" stroke-linejoin="round"/>
+      <rect x="48" y="58" width="14" height="32" fill="#ffffff" stroke="#2c2c2c" stroke-width="1.5"/>
+      <rect x="42" y="48" width="10" height="18" fill="#faf3d0" stroke="#2c2c2c" stroke-width="1.2"/>
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <text x="310" y="72" text-anchor="middle" font-size="28" font-weight="600" fill="#2c2c2c" letter-spacing="1">Kolorowe</text>
+  <text x="310" y="108" text-anchor="middle" font-size="28" font-weight="600" fill="#2c2c2c" letter-spacing="1">S&#261;siedztwo</text>
+  <line x1="200" y1="125" x2="420" y2="125" stroke="#2c2c2c" stroke-width="0.8" opacity="0.25"/>
+  <text x="310" y="148" text-anchor="middle" font-size="10" fill="#888" letter-spacing="2">PARK DO MIESZKANIA</text>
+</svg>

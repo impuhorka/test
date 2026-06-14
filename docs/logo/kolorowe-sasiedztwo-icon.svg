@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 120" font-family="Century Gothic, Futura, Arial, sans-serif">
+  <rect width="280" height="120" fill="#ffffff"/>
+
+  <!-- Icon only - three steep gable houses -->
+  <g transform="translate(30, 12)">
+    <g transform="translate(0, 0)">
+      <polygon points="0,85 30,85 30,42 45,8 60,42 60,85" fill="#9eb9c8" stroke="#2c2c2c" stroke-width="2" stroke-linejoin="round"/>
+      <polygon points="30,42 45,8 60,42 45,28" fill="#b8cdd8" stroke="#2c2c2c" stroke-width="2" stroke-linejoin="round"/>
+      <rect x="40" y="55" width="12" height="30" fill="#fff" stroke="#2c2c2c" stroke-width="1.5"/>
+    </g>
+    <g transform="translate(72, 0)">
+      <polygon points="0,85 30,85 30,42 45,8 60,42 60,85" fill="#c9a8a8" stroke="#2c2c2c" stroke-width="2" stroke-linejoin="round"/>
+      <polygon points="30,42 45,8 60,42 45,28" fill="#dbbfbf" stroke="#2c2c2c" stroke-width="2" stroke-linejoin="round"/>
+      <rect x="40" y="55" width="12" height="30" fill="#fff" stroke="#2c2c2c" stroke-width="1.5"/>
+    </g>
+    <g transform="translate(144, 0)">
+      <polygon points="0,85 30,85 30,42 45,8 60,42 60,85" fill="#d4c48a" stroke="#2c2c2c" stroke-width="2" stroke-linejoin="round"/>
+      <polygon points="30,42 45,8 60,42 45,28" fill="#e8dba8" stroke="#2c2c2c" stroke-width="2" stroke-linejoin="round"/>
+      <rect x="40" y="55" width="12" height="30" fill="#fff" stroke="#2c2c2c" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <text x="140" y="112" text-anchor="middle" font-size="9" fill="#666" letter-spacing="3">KS</text>
+</svg>
