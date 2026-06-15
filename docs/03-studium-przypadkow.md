@@ -1,89 +1,156 @@
 # Studium przypadków
 
-Analiza trzech zagranicznych przykładów zespołów mieszkaniowych o charakterze zbliżonym do projektu „Park między domami”.
+**Projekt:** Kolorowe Sąsiedztwo  
+**Etap:** I — analiza min. 3 przykładów zespołów mieszkaniowych (zagranicznych i krajowych)
+
+---
+
+## Wstęp
+
+Celem studium przypadków jest analiza wybranych realizacji mieszkalnych, których rozwiązania urbanistyczne, architektoniczne i społeczne mogą stanowić odniesienie dla projektu **Kolorowe Sąsiedztwo**. Przeanalizowano trzy zespoły: dwa zagraniczne (Holandia, Wielka Brytania) oraz jeden krajowy (Polska). Każdy przykład odniesiono do kluczowych założeń projektu: zwartej zabudowy szeregowej, różnokolorowych fasad, wysokiej jakości przestrzeni wspólnych oraz koncepcji „Parku do mieszkania”.
 
 ---
 
 ## Przykład 1. Borneo-Sporenburg, Amsterdam (Holandia)
 
-### Lokalizacja i kontekst
-Borneo-Sporenburg to dzielnica mieszkaniowa na sztucznych wyspach w porcie Amsterdamu, zrealizowana w latach 1993–2000. Projekt autorstwa Adriaana Geuzego (West 8) obejmuje ok. 2500 mieszkań w zabudowie szeregowej i indywidualnej.
+**Autorzy:** Adriaan Geuze (West 8) — urbanistyka; wielu architektów — budynki  
+**Lokalizacja:** Sztuczne wyspy w porcie Amsterdamu  
+**Rok realizacji:** 1993–2000  
+**Skala:** ok. 2500 mieszkań
+
+### Opis ogólny
+
+Borneo-Sporenburg to jeden z najbardziej znanych przykładów współczesnego budownictwa mieszkaniowego w Europie. Dzielnica powstała na sztucznych wyspach i łączy zabudowę szeregową, indywidualną oraz wielorodzinną. Mimo dużej skali zachowuje ludzką proporcję i silną tożsamość miejsca.
 
 ### Układ urbanistyczny
-Zabudowa została skoncentrowana wzdłuż kanałów, uwalniając centralne tereny na wspólne przestrzenie zielone i place. Szeregi domów tworzą wyraźne granice bloków urbanistycznych, a wnętrza kwartałów pozostają otwarte na ruch pieszy.
+
+Zabudowa skoncentrowana jest wzdłuż kanałów i zewnętrznych granic bloków, dzięki czemu wnętrza kwartałów pozostają otwarte — tworzą sieć placów, bulwarów i terenów zielonych. Ruch kołowy ograniczono do minimum; dominuje pieszy i rowerowy. Kompozycja oparta jest na wyraźnej strukturze: powtarzalna forma urbanistyczna + indywidualna architektura poszczególnych domów.
 
 ### Typ zabudowy
-Dominuje zabudowa szeregowa i indywidualna o wysokości 3–4 kondygnacji. Architekci zaprojektowali indywidualne domy według ścisłych wytycznych urbanistycznych (szerokość, wysokość, linia zabudowy), zachowując różnorodność formy.
+
+Dominuje zabudowa niska i średnia (3–4 kondygnacje): szeregi, domy na wąskich działkach, budynki na sztucznych wyspach. Każdy architekt mógł zaprojektować własny dom w ramach ścisłych wytycznych (szerokość, wysokość, linia zabudowy, materiały). Efekt: spójna całość przy ogromnej różnorodności form i kolorów elewacji.
 
 ### Przestrzenie wspólne
-Kanały, bulwary piesze i wewnętrzne place stanowią sieć przestrzeni publicznych integrujących mieszkańców. Brak ulic przeznaczonych dla ruchu kołowego w centralnych częściach dzielnicy.
+
+Kanały, nabrzeża, wewnętrzne place i aleje zielone integrują mieszkańców. Wspólna przestrzeń nie jest dodatkiem — jest głównym elementem organizującym życie dzielnicy. Mieszkańcy korzystają z wody i zieleni na co dzień, nie tylko w weekendy.
 
 ### Rozwiązania ekologiczne
-Retencja wód opadowych w kanałach, zieleń wysoka wzdłuż alei, kompaktowa zabudowa ograniczająca zużycie gruntów.
 
-### Wnioski do projektu
-- Koncentracja zabudowy wzdłuż obwodu z uwalnianiem wnętrza na zieleń — bezpośrednie nawiązanie do koncepcji sześciu skupisk z wspólnymi dziedzińcami.
-- Różnorodność architektoniczna w ramach jednolitego urbanistycznego porządku — analogia do kolorowych elewacji w projekcie.
-- Rola wody i zieleni jako elementów organizujących przestrzeń.
+Retencja wód opadowych w kanałach, zieleń wysoka, kompaktowa zabudowa ograniczająca zużycie gruntów, dobra izolacja termiczna budynków.
+
+### Wnioski do projektu Kolorowe Sąsiedztwo
+
+| Element referencyjny | Zastosowanie w projekcie |
+|---------------------|--------------------------|
+| Jednolita forma + różnorodność elewacji | Spójna bryła domów szeregowych + pastelowy kolor każdego budynku |
+| Zabudowa wokół wspólnego wnętrza | Sześć skupisk z wewnętrznymi dziedzińcami zielonymi |
+| Ludzka skala sąsiedztwa | Szeregi 3–6 domów — rozpoznawalna wspólnota, nie anonimowe osiedle |
+| Zieleń jako element organizujący | Centralny park i wspólne wnętrza zamiast dużych prywatnych ogrodów |
 
 ---
 
 ## Przykład 2. Marmalade Lane, Cambridge (Wielka Brytania)
 
-### Lokalizacja i kontekst
-Marmalade Lane to projekt cohousingu w Cambridge, zrealizowany w 2018 r. przez Mole Architects. Obejmuje 42 mieszkania w zabudowie szeregowej i bliźniaczej, zaprojektowanych we współpracy z przyszłymi mieszkańcami.
+**Autorzy:** Mole Architects (współpraca z przyszłymi mieszkańcami)  
+**Lokalizacja:** Cambridge, Wielka Brytania  
+**Rok realizacji:** 2018  
+**Skala:** 42 domy (szeregowe i bliźniacze)
+
+### Opis ogólny
+
+Marmalade Lane to projekt cohousingu — mieszkańcy współuczestniczyli w procesie projektowym. Zabudowa otacza wspólny dziedziniec, tworząc model sąsiedztwa opartego na współdzieleniu przestrzeni i odpowiedzialności za wspólne tereny.
 
 ### Układ urbanistyczny
-Zabudowa otacza wspólny dziedziniec z ogrodem, placem zabaw i wspólną salą. Układ przypomina tradycyjny angielski square, gdzie domy formują ramę wokół zielonego wnętrza.
+
+Domy ustawione są wokół centralnego ogrodu — układ przypomina tradycyjny angielski square. Od strony ulicy każdy dom ma prywatny ogródek; od wewnętrznej — otwarcie na wspólny dziedziniec. Taka struktura buduje równowagę między prywatnością a życiem społeczności.
 
 ### Typ zabudowy
-Domy szeregowe i bliźniacze o powierzchni 70–120 m², z prywatnymi ogrodami od strony ulicy i wspólnym dziedzińcem od wewnętrznej.
+
+Domy szeregowe i bliźniacze o powierzchni 70–120 m². Kompaktowe, energooszczędne, z własnym wejściem. Architektura nowoczesna, ciepła materiałami (cegła, drewno) — przyjazna, nienachalna.
 
 ### Przestrzenie wspólne
-Wspólny budynek z kuchnią, salą spotkań i pralnią. Centralny ogród z miejscem na grillowanie, ogródki działkowe i plac zabaw. Przestrzenie te są zarządzane wspólnie przez mieszkańców.
+
+Wspólny budynek z kuchnią, salą spotkań i pralnią. Centralny ogród: plac zabaw, miejsce na grillowanie, ogródki działkowe. Przestrzenie zarządzane wspólnie przez mieszkańców — kluczowy element budowania wspólnoty.
 
 ### Rozwiązania ekologiczne
-Wysoki standard energetyczny (Code for Sustainable Homes Level 5), panele fotowoltaiczne, rekuperacja, zielone dachy na części budynków.
 
-### Wnioski do projektu
-- Model „domów wokół wspólnego ogrodu” — bezpośrednia inspiracja dla sześciu skupisk w projekcie.
-- Wspólne zarządzanie przestrzenią jako element budowania wspólnoty.
-- Kompaktowe domy szeregowe z wysokim standardem energetycznym — potwierdzenie ekonomicznej racjonalności przyjętego modelu.
+Code for Sustainable Homes Level 5, fotowoltaika, rekuperacja, zielone dachy na części budynków. Niski koszt eksploatacji jako argument ekonomiczny za małym, dobrze zaplanowanym domem.
+
+### Wnioski do projektu Kolorowe Sąsiedztwo
+
+| Element referencyjny | Zastosowanie w projekcie |
+|---------------------|--------------------------|
+| Domy wokół wspólnego ogrodu | Każde skupisko szeregowe otacza wewnętrzne dziedzińce zielone |
+| Cohousing / sąsiedztwo | Wspólny ogród społeczny, ławki, miejsca spotkań w parku centralnym |
+| Kompaktowy dom 70–120 m² | Domy szeregowe 90–130 m² — odpowiedź na potrzeby rodzin 2+1 |
+| Wysoki standard energetyczny | Pompa ciepła, rekuperacja, PV — analogiczne rozwiązania w projekcie |
 
 ---
 
-## Przykład 3. Bo01 — Miasto Wody, Malmö (Szwecja)
+## Przykład 3. Nowe Żerniki, Wrocław (Polska)
 
-### Lokalizacja i kontekst
-Bo01 to pierwsza część dzielnicy Västra Hamnen w Malmö, zrealizowana na międzynarodowej wystawie mieszkaniowej Bo01 w 2001 r. Projekt jest uznawany za wzorzec zrównoważonego rozwoju miejskiego w Europie Północnej.
+**Autorzy:** JEMS Architekci, maastudio, Pracownia Architektury Głowacki i in.  
+**Lokalizacja:** Wrocław, dzielnica Żerniki  
+**Rok realizacji:** 2011– (rozwój wieloetapowy)  
+**Skala:** ok. 8000 mieszkańców (całe miasteczko)
+
+### Opis ogólny
+
+Nowe Żerniki to największy w Polsce przykład kompleksowego planowania nowego miasteczka mieszkaniowego. Choć skala jest znacznie większa niż w projekcie **Kolorowe Sąsiedztwo**, rozwiązania na poziomie poszczególnych kwartałów są istotnym odniesieniem krajowym — zwłaszcza w zakresie różnorodności architektonicznej, koloru i integracji z zielenią.
 
 ### Układ urbanistyczny
-Zabudowa mieszana (mieszkalna i usługowa) skoncentrowana wzdłuż ulic i nabrzeża, z siecią parków, kanałów i placów wewnętrznych. Gęstość zabudowy jest wysoka, lecz dzięki starannej kompozycji przestrzeń nie jest odbierana jako ciasna.
+
+Plan oparty na sieci ulic, placów i terenów zielonych. Kwartały mieszane — mieszkalnictwo, usługi, edukacja — z zachowaniem pieszej skali i czytelnej struktury. Centralny park i liczne mniejsze place pełnią funkcję integrującą dla mieszkańców.
 
 ### Typ zabudowy
-Mieszanka zabudowy szeregowej, kamieniczkowej i indywidualnej. Różnorodność form przy zachowaniu spójnej skali i materiałów.
+
+Mieszanka budownictwa wielorodzinnego i jednorodzinnego: bloki, szeregi, domy jednorodzinne. Różni architekci projektują poszczególne budynki w ramach wspólnych wytycznych urbanistycznych — podobnie jak w Borneo-Sporenburg, lecz w polskim kontekście prawnym i kulturowym.
 
 ### Przestrzenie wspólne
-Parki, nabrzeża, place i wewnętrzne dziedzińce tworzą ciągłą sieć terenów zielonych. Każdy mieszkaniec ma zapewniony dostęp do zieleni w odległości nie większej niż 200 m.
+
+Rozległy park centralny, place sąsiedzkie, tereny rekreacyjne, ścieżki rowerowe. Zieleń nie jest marginalna — stanowi ok. 30% terenu. Mieszkańcy korzystają z przestrzeni wspólnych na co dzień: spacery, zabawa dzieci, spotkania.
 
 ### Rozwiązania ekologiczne
-System zamkniętego obiegu wody (100% wód opadowych retencjonowanych na terenie), energia ze źródeł odnawialnych, zielone dachy, lokalne oczyszczalnie. Cały district jest zasilany energią ze źródeł odnawialnych.
 
-### Wnioski do projektu
-- Retencja wód opadowych i zielona infrastruktura jako obowiązkowy element projektu zrównoważonego.
-- Różnorodność form zabudowy w ramach jednolitej koncepcji urbanistycznej.
-- Dowód, że wysoka jakość przestrzeni wspólnej podnosi wartość mieszkań i satysfakcję mieszkańców.
+Retencja wód opadowych, zieleń wysoka, niska emisyjność budynków (nowe normy WT), dobra izolacja, promowanie mobilności rowerowej. Wrocławski model pokazuje, że polskie osiedla mogą łączyć nowoczesność ze zrównoważeniem.
+
+### Wnioski do projektu Kolorowe Sąsiedztwo
+
+| Element referencyjny | Zastosowanie w projekcie |
+|---------------------|--------------------------|
+| Różnorodność architektów / form w jednym zespole | Różnokolorowe fasady przy jednolitej bryle — tożsamość bez monotonii |
+| Zieleń jako element struktury osiedla | Park centralny + dziedzińce — „park do mieszkania” w polskim kontekście |
+| Polski kontekst planistyczny i ekonomiczny | Lokalizacja w Rudzie Malenieckiej — strefa podmiejska Krakowa |
+| Ludzka skala kwartału | Skupiska po 3–6 domów — przeniesienie idei na mniejszą, bardziej intymną skalę |
 
 ---
 
-## Podsumowanie studium
+## Porównanie przykładów
 
-| Kryterium | Borneo-Sporenburg | Marmalade Lane | Bo01 | Projekt |
-|-----------|-------------------|----------------|------|---------|
+| Kryterium | Borneo-Sporenburg | Marmalade Lane | Nowe Żerniki | Kolorowe Sąsiedztwo |
+|-----------|-------------------|----------------|--------------|---------------------|
+| Kraj | Holandia | Wielka Brytania | Polska | Polska |
 | Typ zabudowy | Szeregowa, indywidualna | Szeregowa, bliźniacza | Mieszana | Szeregowa |
-| Przestrzeń wspólna | Kanały, place | Wspólny ogród | Parki, kanały | 6 dziedzińców + park centralny |
-| Skala | 2500 mieszkań | 42 mieszkania | ~350 mieszkań | ~24 domy |
-| Ekologia | Retencja, zieleń | PV, rekuperacja | Zamknięty obieg wody | Pompa ciepła, PV, retencja |
+| Skala | 2500 mieszkań | 42 domy | ~8000 osób | ~24 domy |
+| Przestrzeń wspólna | Kanały, place | Wspólny ogród | Park, place | 6 dziedzińców + park |
+| Różnorodność | Formy + kolory | Wspólnota | Formy + kolory | Pastelowe fasady |
+| Ekologia | Retencja, zieleń | PV, rekuperacja | Zieleń, retencja | PV, pompa ciepła |
 | Społeczność | Miejska | Cohousing | Miejska | Sąsiedztwo |
 
-Analiza trzech przykładów potwierdza, że model zabudowy szeregowej skupionej wokół wspólnych przestrzeni zielonych jest sprawdzonym rozwiązaniem w europejskim projektowaniu mieszkaniowym. Projekt „Park między domami” czerpie z tych doświadczeń, adaptując je do polskiego kontekstu kulturowego, klimatycznego i ekonomicznego.
+---
+
+## Wnioski końcowe ze studium
+
+Analiza trzech przypadków — dwóch zagranicznych i jednego krajowego — potwierdza słuszność głównych założeń projektu **Kolorowe Sąsiedztwo**:
+
+1. **Zwarta zabudowa szeregowa** wokół wspólnych przestrzeni zielonych to sprawdzony model w europejskim i polskim projektowaniu mieszkaniowym (Borneo-Sporenburg, Marmalade Lane).
+
+2. **Różnorodność przy spójnej strukturze** — różne kolory i detale przy jednolitej bryle — buduje tożsamość miejsca bez chaosu (Borneo-Sporenburg, Nowe Żerniki → pastelowe fasady w projekcie).
+
+3. **Wspólna zieleń** jako serce osiedla, nie dodatek — realizuje koncepcję „Parku do mieszkania” (Marmalade Lane, Nowe Żerniki).
+
+4. **Ludzka skala sąsiedztwa** — małe skupiska domów sprzyjają integracji bardziej niż wielkie, anonimowe osiedla (Marmalade Lane → 6 skupisk w projekcie).
+
+5. **Rozwiązania ekologiczne** (PV, retencja, niska emisyjność) są standardem współczesnego budownictwa — projekt je integruje jako element TCO, nie jako dekorację.
+
+Studium przypadków stanowi podstawę do dalszej pracy projektowej na etapie II — wstępnego projektu architektoniczno-urbanistycznego zespołu **Kolorowe Sąsiedztwo**.
