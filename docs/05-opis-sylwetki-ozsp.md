@@ -1,70 +1,104 @@
 # Opis sylwetki OzSP i rozwiązań dla nich przyjętych
 
+**Projekt:** Kolorowe Sąsiedztwo
+
 ---
 
 ## Profil użytkownika
 
-**Jan Kowalski**, mężczyzna, 68 lat, emeryt. Po przebytym udarze mózgu w 2023 r. porusza się na wózku inwalidzkim elektrycznym. Mieszka sam w przygotowanej dla niego jednostce mieszkaniowej, jednak regularnie odwiedzają go córka z mężem i wnukami (weekendy). Jan był aktywnym zawodowo inżynierem, obecnie angażuje się w życie sąsiedzkie — korzysta ze wspólnych przestrzeni osiedla i uczestniczy w spotkaniach mieszkańców.
+**Marta Nowak**, kobieta, 35 lat, graficzka freelancerka. Od urodzenia występuje u niej **niedosłuch obustronny** — korzysta z aparatów słuchowych na co dzień. W sytuacjach hałasu lub większej odległości od rozmówcy komunikuje się również za pomocą mowy czytelnej z warg oraz prostych gestów. Mieszka w przygotowanej dla niej jednostce mieszkaniowej wraz z partnerem Tomaszem i sześcioletnią córką Zosią.
+
+Marta pracuje zdalnie z domu. Jej codzienne życie wymaga przestrzeni, w której **informacja dociera przede wszystkim wzrokiem**, a akustyka wnętrz nie utrudnia funkcjonowania aparatów słuchowych. Ważna jest dla niej możliwość obserwacji otoczenia — zarówno w mieszkaniu, jak i na osiedlu — bez konieczności polegania wyłącznie na dźwięku (dzwonek, alarm, wołanie sąsiada).
 
 ### Potrzeby funkcjonalne
-- Samodzielne poruszanie się po mieszkaniu i osiedlu na wózku
-- Dostęp do łazienki, kuchni i sypialni bez asysty
-- Możliwość manewrowania wózkiem we wszystkich pomieszczeniach
-- Bezpieczny dostęp do ogrodu prywatnego
-- Miejsce parkingowe przy budynku z oznaczeniem OzN
-- Dostęp do wspólnych przestrzeni osiedla (ławki, place)
+- Wizualne sygnalizowanie zdarzeń: dzwonek do drzwi, alarm pożarowy, telefon, budzik
+- Dobre oświetlenie we wszystkich pomieszczeniach — ułatwienie czytania z ruchu warg
+- Otwarty układ wnętrz — widoczność między strefami (salon, kuchnia, hol)
+- Ograniczenie pogłosu i hałasu tła — komfort pracy aparatów słuchowych
+- System domofonu z obrazem (wideodomofon)
+- Bezpieczne korzystanie z przestrzeni wspólnych osiedla bez polegania na sygnałach dźwiękowych
 
 ### Potrzeby przestrzenne
-- Sypialnia na parterze (unikanie schodów)
-- Pokój gościnny lub elastyczna przestrzeń na wizyty rodziny
-- Dobre oświetlenie naturalne (ograniczone widzenie po udarze)
-- Cicha strefa odpoczynku z dala od ciągów komunikacyjnych
+- Pokój pracy z kontrolą światła i akustyki
+- Możliwość obserwacji wejścia do domu z salonu lub kuchni
+- Oświetlenie dzienne i sztuczne o wysokim współczynniku oddawania barw (CRI ≥ 90)
+- Przestrzeń umożliwiająca rozmowę twarzą w twarz z domownikami i gośćmi
+- Dostęp do wspólnych terenów zielonych z czytelną komunikacją wizualną (piktogramy, tablice)
 
 ---
 
-## Przyjęte rozwiązania architektoniczne
+## Przyjęte rozwiązania architektoniczne — jednostka mieszkaniowa
 
-### Dostęp do budynku
-- Wejście na poziomie terenu, bez progów i schodów
-- Podjazd o szerokości min. 150 cm i nachyleniu max. 8%
-- Drzwi wejściowe o szerokości 100 cm, otwierane na zewnątrz
-- Włącznik oświetlenia zewnętrznego na wysokości 90–110 cm
+### Komunikacja wizualna w mieszkaniu
+- **Wideodomofon** z ekranem kolorowym przy wejściu — podgląd osoby dzwoniącej przed otwarciem drzwi
+- **Dzwonek do drzwi z sygnalizacją świetlną** — lampa błyskowa (stroboskop) w holu i salonie przy naciśnięciu dzwonka
+- **Czujka dymu z lampą błyskową** — alarm pożarowy sygnalizowany światłem, nie tylko dźwiękiem (zgodnie z wymaganiami dla osób niedosłyszących)
+- **Wibracyjny budzik** — w sypialni rodziców; dodatkowa lampka sygnalizacyjna podłączona do budzika
+- **Sygnalizacja wizualna telefonu** — lampka LED przy drzwiach wejściowych i w pokoju pracy, aktywowana połączeniem przychodzącym
 
-### Układ funkcjonalny (parter)
-- **Salon z aneksem kuchennym** — otwarta przestrzeń 28 m², kuchnia z blatem o wysokości 85 cm (dostosowany do użytkowania z wózka), zlew z przestrzenią pod spodem
-- **Sypialnia** — 14 m², na parterze, z bezpośrednim dostępem do łazienki
-- **Łazienka** — 8 m², z prysznicem bezprogowym 120×90 cm, uchwyty przy WC i w prysznicu, umywalka podwieszana, lustro pochylone
-- **Pokój gościnny / gabinet** — 12 m², elastyczny, z możliwością wydzielenia strefy dla wnuków
-- **Wiatrołap** — 4 m², z miejscem na wózek (wieszak i ładowarka)
+### Układ funkcjonalny
+- **Salon z aneksem kuchennym** — otwarta przestrzeń 28 m² bez ścian działowych blokujących widok; możliwość obserwacji drzwi wejściowych i części kuchni z poziomu salonu
+- **Kuchnia** — blat w kształcie L umożliwiający rozmowę twarzą w twarz podczas przygotowywania posiłków; oświetlenie podszafkowe eliminujące cienie na twarzach
+- **Pokój pracy Marty** — 12 m², okno od południa (stałe, równomierne światło), ściany częściowo pokryte panelami akustycznymi (ograniczenie pogłosu)
+- **Sypialnia** — 14 m², możliwość montażu lampy sygnalizacyjnej przy łóżku
+- **Hol wejściowy** — lustro na ścianie naprzeciw drzwi (widoczność osoby wchodzącej zanim zostanie zauważona słuchowo)
 
-### Wymiary i manewrowanie
-- Minimalna szerokość ciągów komunikacyjnych: 120 cm (zalecane 150 cm)
-- Miejsce manewrowe wózkiem: 150 × 150 cm w salonie, sypialni i łazience
-- Promień skrętu wózka: uwzględniony przy rozmieszczeniu mebli i wyposażenia stałego
-- Wysokość wszystkich włączników, gniazdek i elementów obsługi: 90–110 cm
+### Akustyka wnętrz
+- **Posadzki** w strefie dziennej: panele winylowe / drewno z izolacją akustyczną — redukcja odbić dźwięku
+- **Sufity** w salonie i pokoju pracy: obniżone z wypełnieniem mineralnym (pochłanianie dźwięku)
+- **Zasłony tekstylne** zamiast żaluzji metalowych — ograniczenie tła hałasowego
+- Unikanie otwartych, w pełni twardych powierzchni (beton, szkło) w strefie dziennej bez elementów pochłaniających
 
-### Ogród prywatny
-- Bezprogowe wyjście z salonu na taras i ogród (poziom ±0 cm)
-- Taras o szerokości min. 150 cm
-- Ścieżka ogrodowa o szerokości 120 cm, nawierzchnia tłucznia stabilizowanego
-- Podwyższone grządki (wysokość 60 cm) umożliwiające uprawę roślin z wózka
+### Oświetlenie
+- Oświetlenie ogólne LED o barwie neutralnej (4000 K) — dobre odwzorowanie barw i czytelność twarzy
+- Oświetlenie punktowe nad stołem jadalnym i w strefie wejścia
+- Włączniki z podświetleniem — widoczne w ciemności
+- Automatyczne oświetlenie korytarza (czujnik ruchu) — bezpieczeństwo bez konieczności słyszenia kroków domowników
 
-### Piętro (opcjonalne)
-- Schody z poręczą po obu stronach, stopnie 16 cm, szerokość 100 cm
-- Piętro dostępne dla gości i rodziny, nie jest wymagane do codziennego funkcjonowania Jana
+### Wyjście na ogród i taras
+- **Przeszklenie drzwi tarasowych** — pełna wysokość, widok na ogród i ścieżkę podejściową
+- Taras na jednym poziomie z salonem (bez progu)
+- Oświetlenie zewnętrzne tarasu sterowane z wnętrza — wizualna kontrola otoczenia po zmroku
 
 ---
 
 ## Rozwiązania w przestrzeniach wspólnych osiedla
 
-- Wszystkie ciągi piesze o szerokości min. 150 cm, nawierzchnia twarda, równa
-- Ławki z podłokietnikami i oparciem umożliwiającym transfer z wózka
-- Miejsca parkingowe dla OzN przy każdym skupisku, oznakowane zgodnie z polskimi normami
-- Oświetlenie ciągów pieszych zapewniające widoczność po zmroku
-- Brak progów i schodów na trasach pieszych między skupiskami
+### Komunikacja wizualna
+- **Piktogramy i tablice informacyjne** przy wejściu na osiedle i w parku centralnym — czytelna typografia, kontrast min. 4,5:1
+- **Oznaczenia wizualne** miejsc spotkań, placu zabaw, ogrodu społecznego
+- **Wideodomofon** przy bramie wjazdowej (jeśli przewidziana) — dla gości i dostawców
+
+### Oświetlenie i bezpieczeństwo
+- **Równomierne oświetlenie** ciągów pieszych — eliminacja ciemnych stref, w których trudno odczytać twarz rozmówcy
+- **Lampy LED** o wysokim CRI na ścieżkach i przy ławkach
+- **Sygnalizacja świetlna** w budynkach wspólnych (np. altana sąsiedzka) — lampa przy uruchomieniu systemu nagłośnienia / alarmu
+
+### Akustyka i komfort przestrzeni wspólnych
+- **Ławki ustawione naprzeciw siebie** — ułatwienie rozmowy twarzą w twarz na świeżym powietrzu
+- **Ograniczenie źródeł hałasu** przy miejscach odpoczynku (pompy, agregaty) — wydzielenie techniczne
+- **Plac zabaw** z widocznością z domów szeregowych skierowanych na wspólną zieleń — rodzic może obserwować dziecko wzrokiem
+
+### System wspomagający (opcjonalnie)
+- **Pętla indukcyjna** w altanie sąsiedzkiej / sali spotkań — współpraca z aparatami słuchowymi podczas zebrań mieszkańców
+- **Aplikacja osiedlowa** z powiadomieniami wizualnymi (np. plan prac, spotkania wspólnoty) — uzupełnienie komunikacji poza kanałem dźwiękowym
+
+---
+
+## Schemat sygnalizacji wizualnej w mieszkaniu
+
+| Zdarzenie | Sygnał dźwiękowy | Sygnał wizualny |
+|-----------|------------------|-----------------|
+| Dzwonek do drzwi | Standardowy | Lampa błyskowa w holu i salonie |
+| Pożar / dym | Alarm dźwiękowy | Lampy błyskowe we wszystkich pomieszczeniach |
+| Telefon | Dzwonek | Migająca lampka LED przy drzwiach i w pokoju pracy |
+| Budzik poranny | Wibracja | Stopniowe włączanie światła (simulator świtu) |
+| Domofon | Sygnał dźwiękowy | Obraz na ekranie wideodomofonu |
 
 ---
 
 ## Podsumowanie
 
-Jednostka mieszkalna dla Jana Kowalskiego została zaprojektowana zgodnie z zasadami projektowania uniwersalnego (Design for All). Wszystkie kluczowe funkcje — spanie, higiena, przygotowanie posiłków, odpoczynek — dostępne na parterze bez barier. Rozwiązania nie ograniczają komfortu innych mieszkańców ani estetyki budynku — wręcz przeciwnie, bezprogowe wyjścia, szerokie ciągi i dobre oświetlenie podnoszą jakość przestrzeni dla wszystkich użytkowników.
+Jednostka mieszkaniowa dla Marty Nowak została zaprojektowana zgodnie z zasadami projektowania uniwersalnego, z uwzględnieniem potrzeb **osoby z niedosłuchem**. Kluczowym założeniem jest przeniesienie komunikacji ze sfery dźwiękowej do wizualnej — poprzez sygnalizację świetlną, wideodomofon, otwarty układ wnętrz i dobre oświetlenie. Równolegle zastosowano rozwiązania akustyczne ograniczające pogłos i hałas tła, co ułatwia codzienne korzystanie z aparatów słuchowych.
+
+Rozwiązania te nie są dedykowane wyłącznie osobie z niepełnosprawnością — poprawiają komfort wszystkich mieszkańców: lepsze światło, czytelna sygnalizacja, przejrzysty układ pomieszczeń i bezpieczne oświetlenie ciągów pieszych na osiedlu **Kolorowe Sąsiedztwo**.

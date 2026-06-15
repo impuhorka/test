@@ -190,16 +190,16 @@ W projekcie przyjęto model domu szeregowego jako ekonomicznie uzasadnioną alte
 
 ---
 
-### Persona 3 — para seniorów
+### Persona 3 — osoba z niedosłuchem (jednostka OzSP)
 
-**Jan (68 lat)** — emeryt, po udarze porusza się na wózku  
-Mieszka sam, odwiedzają go dzieci i wnuki
+**Marta (35 lat)** — graficzka freelancerka, niedosłuch obustronny, aparaty słuchowe  
+Mieszka z partnerem i córką w jednostce dostosowanej do potrzeb OzSP
 
 **Potrzeby mieszkaniowe:**
-- sypialnia i łazienka na parterze,
-- brak barier architektonicznych,
-- ławki i ścieżki bez progów w przestrzeniach wspólnych,
-- bliskość sąsiadów — poczucie bezpieczeństwa
+- sygnalizacja wizualna zamiast wyłącznie dźwiękowej (dzwonek, alarm, telefon),
+- wideodomofon i otwarty układ wnętrz — rozmowa twarzą w twarz,
+- dobre oświetlenie i akustyka pomieszczeń (komfort aparatów słuchowych),
+- czytelna komunikacja wizualna na osiedlu (piktogramy, oświetlenie ciągów pieszych)
 
 ---
 
