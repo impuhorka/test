@@ -1,10 +1,9 @@
-# Park między domami
+# Kolorowe Sąsiedztwo
 
 Opis projektu architektoniczno-urbanistycznego — zespół mieszkaniowy w Rudzie Malenieckiej.
 
 **Kurs:** Semestr 04 — Park do mieszkania  
-**Typ zabudowy:** szeregowa (6 skupisk × 4 szeregi, 3–6 domów w szeregu)  
-**Koncepcja:** wspólne przestrzenie zielone w centrum skupisk + centralny park sąsiedzki
+**Koncepcja:** harmonijne osiedle z różnokolorowymi fasadami i wspólną zielenią
 
 ---
 
