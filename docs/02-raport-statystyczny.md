@@ -1,93 +1,225 @@
 # Raport na podstawie danych statystycznych
 
-**Projekt: Park między domami**  
-**Lokalizacja: Ruda Maleniecka**
+**Temat:** Model rodziny  
+**Projekt:** Kolorowe Sąsiedztwo  
+**Lokalizacja:** Ruda Maleniecka (strefa podmiejska Krakowa)
 
 ---
 
-## Rozdział 1. Demografia i struktura gospodarstw domowych
+## Wstęp
 
-### 1.1. Starzenie się społeczeństwa
+Celem raportu jest analiza danych demograficznych, ekonomicznych oraz rynku nieruchomości w celu przewidzenia trendów mieszkaniowych w Krakowie do roku 2040. Na podstawie zebranych informacji opracowano modelową rodzinę, scenariusze użytkowania mieszkań i domów oraz wnioski projektowe dla zespołu mieszkaniowego **Kolorowe Sąsiedztwo**. Analiza stanowi podstawę programu funkcjonalno-przestrzennego i uzasadnia przyjęte rozwiązania architektoniczno-urbanistyczne.
 
-Polska znajduje się w fazie głębokiej transformacji demograficznej. Według prognoz GUS, w latach 2040–2050 udział osób powyżej 65. roku życia w populacji przekroczy 30%, a liczba mieszkańców w wieku produkcyjnym będzie systematycznie maleć. Starzenie się społeczeństwa wpływa bezpośrednio na projektowanie przestrzeni mieszkaniowych: rośnie zapotrzebowanie na mieszkania bez barier architektonicznych, możliwość zamieszkania na parterze oraz dostęp do usług opiekuńczych w bezpośrednim sąsiedztwie.
-
-### 1.2. Zmiany w strukturze gospodarstw domowych
-
-Dominującym modelem w dużych miastach, w tym w Krakowie, stają się gospodarstwa jedno- i dwuosobowe oraz rodziny 2+1. Według danych GUS, w 2023 r. ponad 40% gospodarstw domowych w Polsce składało się z jednej osoby, a kolejne 25% z dwóch osób. Tradycyjny model rodziny wielodzietnej traci na znaczeniu na rzecz mniejszych, bardziej zróżnicowanych struktur domowych.
-
-### 1.3. Model rodziny 2+1
-
-Przykładowa persona projektu — rodzina Anny i Michała z ośmioletnią córką — reprezentuje typowe krakowskie gospodarstwo z dochodami w środkowych kwintylach. Kluczowe w ich decyzjach mieszkaniowych są: czas dojazdu, dostęp do usług, możliwość pracy z domu oraz stabilność miejsca na kolejne etapy życia. W projekcie uwzględniono możliwość wydzielenia pokoju do pracy zdalnej, elastyczny układ funkcjonalny oraz dostęp do wspólnych przestrzeni zastępujących funkcje prywatnego ogrodu.
-
-### 1.4. Wnioski demograficzne dla projektu
-
-Projektowany zespół powinien oferować mieszkania o powierzchni 90–130 m², odpowiadające potrzebom małych rodzin i par. Elastyczność układu funkcjonalnego pozwoli na adaptację lokalu do zmieniających się potrzeb — od pokoju dla dziecka po sypialnię na parterze dla osoby starszej. Wspólne przestrzenie sąsiedzkie kompensują zmniejszającą się powierzchnię prywatnych ogrodów.
+**Źródła danych:**
+- Główny Urząd Statystyczny (GUS)
+- Narodowy Bank Polski (NBP)
+- Urząd Miasta Krakowa
+- raporty rynku nieruchomości (m.in. Otodom, NBP — „Sytuacja na rynku nieruchomości mieszkaniowych i komercyjnych w Polsce”)
 
 ---
 
-## Rozdział 2. Ekonomia zamieszkiwania
+## Rozdział 1. Demografia
 
-### 2.1. Dochody mieszkańców Krakowa
+Demografia jest jednym z najważniejszych czynników wpływających na rozwój mieszkalnictwa. Zmiany w strukturze ludności, liczbie gospodarstw domowych oraz stylu życia mieszkańców bezpośrednio kształtują zapotrzebowanie na różne typy mieszkań i domów.
 
-W 2024 r. przeciętny miesięczny dochód rozporządzalny w Polsce wynosił ok. 3167 zł na osobę. W Krakowie, ze względu na wyższe wynagrodzenia w sektorze usługowym i IT, dochód ten szacuje się na poziomie 3800–4200 zł na osobę. Przeciętna krakowska rodzina trójosobowa lokuje się w trzecim–czwartym kwintylu dochodowym — powyżej średniej krajowej, lecz pod silną presją wysokich kosztów mieszkań i transportu.
+### 1.1. Ludność Krakowa i prognozy do 2040 roku
 
-### 2.2. Koszty mieszkań i domów
+Według danych GUS liczba mieszkańców Krakowa wynosi około 800–810 tysięcy osób. Miasto od lat pozostaje jednym z głównych ośrodków akademickich i gospodarczych w Polsce, co przyciąga studentów oraz młodych pracowników z innych regionów kraju. Jednocześnie prognozy demograficzne wskazują, że w długiej perspektywie liczba mieszkańców może stabilizować się lub nieznacznie maleć — wynika to ze spadku liczby urodzeń oraz procesu starzenia się społeczeństwa.
 
-Średnia cena mieszkań w Krakowie w 2024–2025 r. wynosiła ok. 12 000–14 000 zł/m², natomiast domów jednorodzinnych w strefie podmiejskiej — 7000–9000 zł/m² (przy wyższych kosztach działki i infrastruktury). Zabudowa szeregowa w projekcie pozwala obniżyć koszt jednostki mieszkaniowej w porównaniu z domem wolnostojącym, zachowując korzyści prywatnego ogrodu i własnego wejścia.
+Do roku 2040–2050 przewiduje się:
+- stopniowy spadek liczby dzieci i młodzieży,
+- wzrost liczby osób w wieku poprodukcyjnym,
+- zwiększenie udziału jedno- i dwuosobowych gospodarstw domowych,
+- utrzymanie migracji młodych mieszkańców (studenci, pracownicy sektora usługowego i IT).
 
-### 2.3. Struktura wydatków mieszkaniowych
+### 1.2. Starzenie się społeczeństwa
 
-Według danych GUS, przeciętne gospodarstwo domowe w dużym mieście przeznacza:
+Coraz większa część mieszkańców należy do grupy osób powyżej 60–65 roku życia. W perspektywie do 2040 roku udział osób starszych w populacji będzie systematycznie rósł. W konsekwencji rośnie zapotrzebowanie na:
+- mieszkania i domy bez barier architektonicznych,
+- możliwość zamieszkania na parterze,
+- dostęp do usług opiekuńczych i przestrzeni sprzyjających integracji społecznej,
+- osiedla z dobrą dostępnością komunikacyjną i pieszą.
+
+### 1.3. Zmiany w strukturze gospodarstw domowych
+
+Coraz rzadziej spotyka się duże, wielodzietne rodziny. W dużych miastach, w tym w Krakowie, dominują:
+- osoby mieszkające samotnie,
+- młode pary bez dzieci,
+- rodziny 2+1 (dwójka dorosłych i jedno dziecko).
+
+Tendencja ta wynika z późniejszego zakładania rodzin, rosnącej mobilności zawodowej oraz zmieniających się stylów życia. Przeciętna liczba osób w gospodarstwie domowym systematycznie maleje — według GUS ponad 40% gospodarstw w Polsce to gospodarstwa jednoosobowe, a kolejne 25% — dwuosobowe.
+
+### 1.4. Wnioski demograficzne
+
+Analiza wskazuje, że do 2040 roku struktura mieszkańców Krakowa i jego strefy podmiejskiej będzie oparta na mniejszych, bardziej zróżnicowanych gospodarstwach domowych. Dla projektu **Kolorowe Sąsiedztwo** oznacza to konieczność projektowania domów szeregowych o powierzchni 90–130 m², z elastycznym układem funkcjonalnym i dostępnością bez barier w przestrzeniach wspólnych.
+
+---
+
+## Rozdział 2. Ekonomia
+
+### 2.1. Ceny nieruchomości i dostępność mieszkań
+
+Analizy NBP wskazują, że w ostatnich latach ceny mieszkań w największych miastach rosły szybciej niż dochody gospodarstw domowych. W Krakowie średnia cena mieszkań w 2024–2025 r. szacowana jest na ok. 12 000–14 000 zł/m². Do głównych czynników wzrostu cen należą: rosnące koszty budowy, ograniczona podaż atrakcyjnych terenów, wysoki popyt inwestycyjny oraz presja demograficzna.
+
+W efekcie coraz więcej osób — zwłaszcza młodych — nie może pozwolić sobie na zakup mieszkania w centrum miasta i poszukuje alternatyw: wynajmu, budownictwa społecznego lub zamieszkania w strefie podmiejskiej.
+
+### 2.2. Dochody i struktura wydatków
+
+Przeciętny miesięczny dochód rozporządzalny w Polsce w 2024 r. wynosił ok. 3167 zł na osobę; w Krakowie — ok. 3800–4200 zł. Przeciętne gospodarstwo w dużym mieście przeznacza:
 - 25–35% dochodu na koszty mieszkaniowe (kredyt lub czynsz),
 - 8–12% na media i utrzymanie lokalu,
 - 10–20% na transport.
 
-Łącznie koszty związane z mieszkaniem i mobilnością mogą pochłaniać 40–50% budżetu rodziny. Lokalizacja w Rudzie Malenieckiej — w bezpośrednim sąsiedztwie Krakowa — pozwala ograniczyć koszty transportu przy jednoczesnym obniżeniu ceny zakupu nieruchomości w porównaniu z centrum miasta.
+Łącznie koszty mieszkania i mobilności mogą pochłaniać 40–50% budżetu rodziny. Lokalizacja w Rudzie Malenieckiej — w zasięgu dojazdu do Krakowa — pozwala obniżyć koszt zakupu nieruchomości przy zachowaniu dostępu do miejskich usług.
 
-### 2.4. Koszty utrzymania
+### 2.3. Kredyt hipoteczny i rynek najmu
 
-Dom szeregowy o powierzchni 110–130 m² z elewacją wentylowaną i pompą ciepła generuje roczne koszty energii szacowane na 2500–3500 zł (przy standardzie energetycznym bliskim A). W porównaniu z domem wolnostojącym o podobnej powierzchni oszczędność wynosi ok. 20–30% ze względu na mniejszą powierzchnię elewacji i lepszą kompaktowość bryły. Wspólne utrzymanie terenów zielonych rozłożone jest na wszystkich mieszkańców, co obniża indywidualny koszt pielęgnacji ogrodu.
+Zakup mieszkania w dużej mierze zależy od dostępności kredytu hipotecznego. W okresach wysokich stóp procentowych dostęp do kredytu jest ograniczony, co wzmacnia znaczenie rynku najmu. Dla wielu młodych osób wynajem jest pierwszym etapem życia mieszkaniowego — równolegle rośnie liczba mieszkań kupowanych jako inwestycja pod wynajem.
 
-### 2.5. Wnioski ekonomiczne dla projektu
+### 2.4. Koszty domu vs mieszkania
 
-Zabudowa szeregowa stanowi kompromis ekonomiczny między mieszkaniem wielorodzinnym a domem wolnostojącym. Koncentracja zabudowy uwalnia teren na wspólne przestrzenie zielone, a jednocześnie obniża koszt jednostki mieszkaniowej. Projekt zakłada rozwiązania niskoemisyjne (pompa ciepła, rekuperacja, fotowoltaika), które w perspektywie 20-letniego cyklu życia budynku znacząco obniżają całkowity koszt zamieszkiwania (TCO).
+Dom jednorodzinny wolnostojący w strefie podmiejskiej kosztuje ok. 7000–9000 zł/m² (z działką i infrastrukturą), lecz generuje wyższe koszty utrzymania i transportu. Dom szeregowy o powierzchni 110–130 m² — jak w projekcie **Kolorowe Sąsiedztwo** — stanowi kompromis: niższy koszt jednostki niż dom wolnostojący, własne wejście i ogród, a jednocześnie niższe koszty energii (kompaktowa bryła, pompa ciepła) i wspólne utrzymanie terenów zielonych.
+
+### 2.5. Wnioski ekonomiczne
+
+Analiza potwierdza, że przyszłe modele zamieszkiwania muszą łączyć przystępność cenową z niskimi kosztami eksploatacji. Zabudowa szeregowa w strefie podmiejskiej odpowiada na ten problem — oferuje dom w cenie niższej niż wolnostojący, z korzyściami wspólnej infrastruktury zielonej.
 
 ---
 
 ## Rozdział 3. Styl życia i praca zdalna
 
-### 3.1. Upowszechnienie pracy hybrydowej
+### 3.1. Praca hybrydowa i zdalna
 
-Badania przeprowadzone w Polsce w latach 2023–2025 wskazują, że ok. 35–45% pracowników sektora usługowego pracuje w modelu hybrydowym lub w pełni zdalnym. Pandemia COVID-19 trwale zmieniła oczekiwania wobec przestrzeni mieszkalnej — dedykowany pokój do pracy stał się jednym z kluczowych kryteriów wyboru mieszkania.
+Po doświadczeniach pandemii wiele firm umożliwia pracownikom pracę zdalną lub hybrydową. Badania z lat 2023–2025 wskazują, że ok. 35–45% pracowników sektora usługowego pracuje w tym modelu przynajmniej częściowo. Mieszkanie i dom muszą coraz częściej pełnić funkcję nie tylko przestrzeni życia, lecz także miejsca pracy.
 
-### 3.2. Potrzeba dodatkowego pokoju
+W projektach mieszkaniowych pojawiają się więc:
+- wydzielone pokoje do pracy (min. 10–12 m²),
+- elastyczne układy pomieszczeń,
+- przestrzenie wspólne osiedla — miejsca spotkań, odpoczynku i pracy w otoczeniu zieleni.
 
-W projekcie każda jednostka mieszkaniowa przewiduje minimum jeden pokój o powierzchni 10–12 m² z możliwością wydzielenia strefy pracy. Dodatkowo wspólne przestrzenie osiedla mogą pełnić funkcję coworkingu sąsiedzkiego — miejsca spotkań i pracy w otoczeniu zieleni, dostępnego bez konieczności wychodzenia poza osiedle.
+### 3.2. Paradoks preferencji mieszkaniowych
 
-### 3.3. Elastyczność funkcjonalna
-
-Układ pomieszczeń w domach szeregowych projektu zakłada możliwość reorganizacji w czasie: pokój dziecięcy może stać się gabinetem, a sypialnia na parterze — pokojem dla osoby starszej lub gościnnym. Elastyczność ta odpowiada na prognozowane zmiany struktury gospodarstw domowych w horyzoncie 2040–2050.
-
-### 3.4. Preferencje mieszkaniowe
-
-Badania preferencji mieszkaniowych w Polsce pokazują paradoks: większość Polaków deklaruje, że idealnym miejscem do życia jest dom z ogrodem, lecz realnie zdecydowana większość mieszkańców dużych miast mieszka w budynkach wielorodzinnych. Projekt „Park między domami” odpowiada na ten paradoks, oferując dom jednorodzinny ze wspólnym parkiem zamiast dużego prywatnego ogrodu.
+Badania preferencji w Polsce pokazują istotny paradoks: większość Polaków deklaruje, że idealnym miejscem do życia jest dom z ogrodem, lecz realnie większość mieszkańców dużych miast mieszka w budynkach wielorodzinnych. Odpowiedzią na ten paradoks jest model „miejskiego domu” — zabudowa szeregowa ze wspólnym parkiem sąsiedzkim, jak w koncepcji **Kolorowe Sąsiedztwo**.
 
 ---
 
-## Rozdział 4. Wnioski projektowe
+## Rozdział 4. W skali zespołu mieszkaniowego
 
-### 4.1. Uzasadnienie zabudowy szeregowej
+W perspektywie do 2040 roku zespoły mieszkaniowe będą projektowane w sposób bardziej zintegrowany z przestrzenią zieloną i życiem społeczności. W kontekście kursu „Park do mieszkania” kluczowe stają się:
 
-Zabudowa szeregowa pozwala na koncentrację jednostek mieszkaniowych przy zachowaniu indywidualnego wejścia, prywatnego ogrodu i własnej tożsamości domu. W projekcie co najmniej 60% powierzchni zabudowy spełnia definicję zabudowy jednorodzinnej, zgodnie z wymaganiami kursu. Szeregi od 3 do 6 domów tworzą czytelną, ludzką skalę sąsiedztwa.
+- zwarta zabudowa jednorodzinna (szeregowa) zamiast rozproszonej zabudowy jednostkowej,
+- wysoka jakość przestrzeni wspólnych: dziedzińce, ogrody społeczne, place zabaw, ścieżki piesze,
+- dostęp do zieleni bez konieczności posiadania dużego prywatnego ogrodu,
+- model „miasta 15-minutowego” w skali osiedla — podstawowe funkcje codziennego życia w zasięgu spaceru.
 
-### 4.2. Rola wspólnych przestrzeni
+Projekt **Kolorowe Sąsiedztwo** realizuje te założenia poprzez sześć skupisk zabudowy szeregowej z wewnętrznymi dziedzińcami zielonymi oraz centralnym parkiem sąsiedzkim. Wspólna zieleń zastępuje funkcje prywatnego ogrodu, obniżając koszty utrzymania i wspierając integrację mieszkańców.
 
-Centralna część osiedla oraz sześć wewnętrznych dziedzińców pełnią funkcję „parku do mieszkania” — przestrzeni rekreacyjnej dostępnej dla wszystkich mieszkańców. Zamiast dużych prywatnych ogrodów (kosztownych w utrzymaniu) projekt oferuje wysokiej jakości zieleń wspólną, która w badaniach preferencji mieszkańckich jest jednym z najważniejszych czynników satysfakcji z miejsca zamieszkania.
+---
 
-### 4.3. Model miasta 15-minutowego w skali osiedla
+## Rozdział 5. W skali mieszkania i domu
 
-Podstawowe funkcje codziennego życia — odpoczynek, spotkania sąsiedzkie, aktywność na świeżym powietrzu, praca zdalna — są dostępne w obrębie osiedla bez konieczności korzystania z samochodu. Połączenie z Krakowem zapewnia dostęp do szerszej oferty usługowej w czasie dojazdu akceptowalnym dla mieszkańców pracujących stacjonarnie.
+### 5.1. Mieszkanie w mieście (2040)
 
-### 4.4. Podsumowanie
+Przewiduje się, że przeciętne mieszkanie w Krakowie będzie miało powierzchnię ok. 40–60 m², z elastycznym układem, salonem z aneksem, 1–2 sypialniami, balkonem i miejscem do pracy zdalnej.
 
-Analiza danych statystycznych potwierdza słuszność przyjętych założeń projektowych. Zabudowa szeregowa w formie sześciu skupisk z wspólnymi wnętrzami zielonymi odpowiada na realne potrzeby demograficzne, ekonomiczne i społeczne współczesnych mieszkańców. Projekt „Park między domami” stanowi propozycję nowego modelu zamieszkiwania — miejskiej jakości życia w podmiejskiej lokalizacji, z prywatnością domu i bogactwem wspólnej przestrzeni.
+### 5.2. Dom w strefie podmiejskiej (2040)
+
+Na obrzeżach miasta — w tym w Rudzie Malenieckiej — popularne będą domy o powierzchni 90–130 m²: kompaktowa działka, niewielki ogród prywatny, przestrzeń do pracy z domu, rozwiązania energooszczędne. Taki model przyjęto w projekcie **Kolorowe Sąsiedztwo**.
+
+### 5.3. Scenariusz użytkowania — przykładowy dzień (2040)
+
+| Godzina | Aktywność |
+|---------|-----------|
+| 7:00 | Przygotowanie do pracy i szkoły w domu |
+| 8:00 | Jedna osoba pracuje zdalnie (home office) |
+| 9:00 | Dzieci w szkole; drugi dorosły w biurze w Krakowie |
+| 16:00 | Korzystanie ze wspólnego parku osiedla — spacer, zabawa |
+| 18:00 | Wspólny czas w domu, ogródek prywatny |
+| 21:00 | Odpoczynek w prywatnej strefie sypialni |
+
+Dom musi jednocześnie pełnić funkcje miejsca życia, pracy i odpoczynku — stąd konieczność elastycznego układu pomieszczeń.
+
+---
+
+## Rozdział 6. Przystępność cenowa
+
+Wysokie ceny mieszkań w Krakowie ograniczają dostęp do własnego lokalu dla młodych osób i rodzin. Możliwe kierunki rozwiązań:
+- mniejsze, lecz lepiej zaplanowane mieszkania i domy,
+- rozwój rynku najmu i budownictwa społecznego,
+- zabudowa szeregowa obniżająca koszt jednostki mieszkaniowej,
+- niskie koszty eksploatacji (energia, utrzymanie ogrodu) jako element TCO.
+
+W projekcie przyjęto model domu szeregowego jako ekonomicznie uzasadnioną alternatywę dla mieszkania w centrum i domu wolnostojącego na rozległej działce.
+
+---
+
+## Rozdział 7. Modelowa rodzina — persony
+
+### Persona 1 — rodzina 2+1 (główna persona projektu)
+
+**Anna (38 lat)** — architektka, praca hybrydowa  
+**Michał (41 lat)** — programista, praca hybrydowa  
+**Zosia (8 lat)** — córka  
+**Babcia** — odwiedza w weekendy, porusza się na wózku
+
+**Dochody:** środkowe kwintyle (ok. 3800–4200 zł/os.)  
+**Styl życia:** praca z domu 2–3 dni w tygodniu, aktywność w przestrzeniach wspólnych osiedla, dojazd do Krakowa w pozostałe dni
+
+**Potrzeby mieszkaniowe:**
+- dom szeregowy ok. 110–120 m²,
+- 3 pokoje + miejsce do pracy,
+- niewielki ogród prywatny,
+- dostęp do wspólnego parku i placu zabaw,
+- jednostka dostosowana do potrzeb osoby na wózku (Babcia)
+
+**Decyzja:** wybór **Kolorowe Sąsiedztwo** zamiast mieszkania w Krakowie — niższy koszt, dom z ogrodem, wspólna zieleń, akceptowalny dojazd
+
+---
+
+### Persona 2 — singiel / para bez dzieci
+
+**Kuba (29 lat)** — grafik freelancer, praca w pełni zdalna
+
+**Styl życia:** praca z domu, korzystanie ze wspólnych terenów zielonych, aktywne życie — bieganie, spotkania z sąsiadami
+
+**Potrzeby mieszkaniowe:**
+- dom szeregowy ok. 90–100 m²,
+- otwarty salon z aneksem i strefą pracy,
+- 1 sypialnia + pokój gościnny,
+- niski koszt utrzymania
+
+---
+
+### Persona 3 — para seniorów
+
+**Jan (68 lat)** — emeryt, po udarze porusza się na wózku  
+Mieszka sam, odwiedzają go dzieci i wnuki
+
+**Potrzeby mieszkaniowe:**
+- sypialnia i łazienka na parterze,
+- brak barier architektonicznych,
+- ławki i ścieżki bez progów w przestrzeniach wspólnych,
+- bliskość sąsiadów — poczucie bezpieczeństwa
+
+---
+
+## Rozdział 8. Wnioski końcowe
+
+Analiza danych demograficznych, ekonomicznych i rynku nieruchomości wskazuje, że do 2040 roku mieszkalnictwo w Krakowie i jego strefie podmiejskiej będzie się zmieniać w kierunku:
+
+- mniejszych gospodarstw domowych (single, pary, rodziny 2+1),
+- większego znaczenia rynku najmu i ograniczonej dostępności kredytów,
+- upowszechnienia pracy zdalnej i hybrydowej,
+- rosnącego znaczenia przestrzeni wspólnych w zespołach mieszkaniowych,
+- poszukiwania kompromisu między „domem z ogrodem” a miejską dostępnością usług.
+
+**Wnioski dla projektu Kolorowe Sąsiedztwo:**
+
+1. **Zabudowa szeregowa** odpowiada na potrzeby modelowej rodziny 2+1 — dom 110–130 m² z ogródkiem przy niższym koszcie niż dom wolnostojący.
+2. **Różnokolorowe fasady** budują tożsamość sąsiedztwa i ułatwiają orientację — ważne przy mniejszych gospodarstwach szukających „swojego miejsca”.
+3. **Wspólny park i dziedzińce** zastępują duży prywatny ogród — zgodnie z trendem oszczędności czasu i kosztów utrzymania.
+4. **Elastyczny układ wnętrz** umożliwia pracę zdalną i adaptację do starzenia się mieszkańców.
+5. **Projektowanie uniwersalne** — dostępność bez barier w przestrzeniach wspólnych i jednostce dla OzSP — odpowiada na trend starzenia się społeczeństwa.
+6. **Lokalizacja podmiejska** (Ruda Maleniecka) łączy przystępniejszą cenę z dostępem do Krakowa — kompromis ekonomiczny dla rodzin ze środkowych kwintyli dochodowych.
+
+Projekt **Kolorowe Sąsiedztwo** stanowi odpowiedź na zidentyfikowane trendy: oferuje harmonijne, rozpoznawalne środowisko zamieszkania — domy o ludzkiej skali, wspólną zieleń i jakość życia zbliżoną do „miejskiego domu”, bez konieczności rezygnacji z kontaktu z naturą i sąsiedzkiej wspólnoty.
