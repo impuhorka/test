@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Century Gothic, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <text x="260" y="32" text-anchor="middle" font-size="15" font-weight="600" fill="#222">Nawierzchnie przepuszczalne</text>
+
+  <!-- Isometric houses row -->
+  <g transform="translate(50,60)">
+    <polygon points="30,90 90,60 150,90 150,150 30,150" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+    <polygon points="30,90 90,60 150,90 90,120" fill="#e0e0e0" stroke="#222" stroke-width="1.2"/>
+    <polygon points="150,90 210,60 270,90 270,150 150,150" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+    <polygon points="150,90 210,60 270,90 210,120" fill="#e0e0e0" stroke="#222" stroke-width="1.2"/>
+    <polygon points="270,90 330,60 390,90 390,150 270,150" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+    <polygon points="270,90 330,60 390,90 330,120" fill="#e0e0e0" stroke="#222" stroke-width="1.2"/>
+
+    <!-- Permeable parking grid in front -->
+    <polygon points="30,150 90,180 390,180 330,150" fill="#d4edda" stroke="#222" stroke-width="1.5"/>
+    <!-- Grid pattern -->
+    <line x1="60" y1="158" x2="60" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="90" y1="155" x2="90" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="120" y1="153" x2="120" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="150" y1="152" x2="150" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="180" y1="152" x2="180" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="210" y1="153" x2="210" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="240" y1="155" x2="240" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="270" y1="158" x2="270" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="300" y1="162" x2="300" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="330" y1="166" x2="330" y2="178" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="50" y1="165" x2="370" y2="165" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+    <line x1="45" y1="172" x2="365" y2="172" stroke="#222" stroke-width="0.5" opacity="0.3"/>
+
+    <text x="210" y="172" text-anchor="middle" font-size="9" fill="#3d7a50">kruszywo przepuszczalne</text>
+  </g>
+
+  <!-- Cross section rain garden - right side -->
+  <g transform="translate(60,230)">
+    <text x="200" y="0" text-anchor="middle" font-size="11" font-weight="600" fill="#222">Retencja wod opadowych</text>
+    <!-- Roof -->
+    <polygon points="0,30 80,10 160,30 160,50 0,50" fill="#efefef" stroke="#222" stroke-width="1.2"/>
+    <!-- Gutter and pipe -->
+    <line x1="160" y1="35" x2="160" y2="55" stroke="#222" stroke-width="1.5"/>
+    <line x1="160" y1="55" x2="200" y2="55" stroke="#222" stroke-width="1.5"/>
+    <line x1="200" y1="55" x2="200" y2="100" stroke="#222" stroke-width="1.5"/>
+    <text x="175" y="50" font-size="7" fill="#666">rynna</text>
+    <!-- Ground line -->
+    <line x1="0" y1="100" x2="400" y2="100" stroke="#222" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(60,230)">
+    <!-- Rain garden -->
+    <ellipse cx="200" cy="100" rx="45" ry="12" fill="#b3e5fc" stroke="#222" stroke-width="1.2"/>
+    <path d="M 170 100 Q 200 60 230 100" fill="#d4edda" stroke="#222" stroke-width="1.2"/>
+    <circle cx="200" cy="72" r="14" fill="#d4edda" stroke="#222" stroke-width="1"/>
+    <rect x="196" y="82" width="8" height="18" fill="#efefef" stroke="#222" stroke-width="1"/>
+    <text x="200" y="118" text-anchor="middle" font-size="8" fill="#2980b9">ogrod deszczowy</text>
+    <!-- Infiltration arrows -->
+    <line x1="185" y1="108" x2="185" y2="125" stroke="#5dade2" stroke-width="1" marker-end="url(#dn)"/>
+    <line x1="200" y1="108" x2="200" y2="125" stroke="#5dade2" stroke-width="1" marker-end="url(#dn)"/>
+    <line x1="215" y1="108" x2="215" y2="125" stroke="#5dade2" stroke-width="1" marker-end="url(#dn)"/>
+    <text x="200" y="140" text-anchor="middle" font-size="8" fill="#5dade2">infiltracja</text>
+    <!-- Evaporation -->
+    <path d="M 190 55 Q 195 40 200 55 Q 205 40 210 55" fill="none" stroke="#aaa" stroke-width="1"/>
+    <text x="230" y="50" font-size="7" fill="#888">parowanie</text>
+    <!-- Person silhouette -->
+    <ellipse cx="340" cy="88" rx="5" ry="12" fill="#ccc" stroke="#222" stroke-width="1"/>
+    <circle cx="340" cy="72" r="6" fill="#ccc" stroke="#222" stroke-width="1"/>
+    <line x1="40" y1="100" x2="400" y2="100" stroke="#222" stroke-width="1.5"/>
+    <rect x="300" y="100" width="80" height="8" fill="#e0e0e0" stroke="#222" stroke-width="1"/>
+    <text x="340" y="118" text-anchor="middle" font-size="7" fill="#666">sciezka</text>
+  </g>
+  <defs><marker id="dn" markerWidth="5" markerHeight="5" refX="2.5" refY="5" orient="auto"><path d="M0,0 L5,5 L0,5 Z" fill="#5dade2"/></marker></defs>
+
+  <!-- Legend -->
+  <rect x="60" y="295" width="12" height="12" fill="#d4edda" stroke="#222" stroke-width="0.8"/>
+  <text x="78" y="305" font-size="9" fill="#444">przepuszczalna</text>
+  <rect x="180" y="295" width="12" height="12" fill="#e0e0e0" stroke="#222" stroke-width="0.8"/>
+  <text x="198" y="305" font-size="9" fill="#444">nieprzepuszczalna</text>
+  <rect x="310" y="295" width="12" height="12" fill="#b3e5fc" stroke="#222" stroke-width="0.8"/>
+  <text x="328" y="305" font-size="9" fill="#444">retencja wody</text>
+
+  <!-- Description -->
+  <text x="260" y="340" text-anchor="middle" font-size="10" fill="#444">Nawierzchnie przepuszczalne w strefach parkingowych i na sciezkach</text>
+  <text x="260" y="356" text-anchor="middle" font-size="10" fill="#444">ograniczaja odp?yw wód opadowych i wspieraja naturalna infiltracje.</text>
+  <text x="260" y="372" text-anchor="middle" font-size="10" fill="#444">Wody z dachow kierowane sa do ogrodow deszczowych i studni infiltracyjnych.</text>
+  <text x="260" y="388" text-anchor="middle" font-size="10" fill="#444">Ok. 70% powierzchni osiedla retencjonuje wode lokalnie.</text>
+</svg>

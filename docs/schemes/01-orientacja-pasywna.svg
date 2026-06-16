@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Century Gothic, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <text x="260" y="32" text-anchor="middle" font-size="15" font-weight="600" fill="#222">Orientacja budynkow wzgledem stron swiata</text>
+
+  <!-- Sky -->
+  <rect x="40" y="52" width="440" height="200" fill="#fafafa" stroke="none"/>
+
+  <!-- Ground -->
+  <line x1="40" y1="252" x2="480" y2="252" stroke="#222" stroke-width="1.5"/>
+  <rect x="40" y="252" width="440" height="40" fill="#f3f3f3"/>
+
+  <!-- Sun path summer -->
+  <path d="M 80 200 Q 260 70 440 200" fill="none" stroke="#e8c840" stroke-width="1" stroke-dasharray="4,4"/>
+  <circle cx="260" cy="95" r="14" fill="#f5e6a3" stroke="#222" stroke-width="1"/>
+  <text x="260" y="78" text-anchor="middle" font-size="9" fill="#666">lato</text>
+
+  <!-- Sun winter -->
+  <circle cx="100" cy="175" r="10" fill="#f5e6a3" stroke="#222" stroke-width="1"/>
+  <line x1="110" y1="175" x2="200" y2="210" stroke="#e8c840" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="88" y="162" text-anchor="middle" font-size="8" fill="#666">zima</text>
+
+  <!-- House cross section -->
+  <polygon points="120,252 120,155 200,120 280,155 280,252" fill="#efefef" stroke="#222" stroke-width="1.5"/>
+  <rect x="155" y="175" width="50" height="77" fill="#dceefb" stroke="#222" stroke-width="1.2"/>
+  <text x="180" y="218" text-anchor="middle" font-size="8" fill="#555">okna S</text>
+  <rect x="240" y="195" width="22" height="57" fill="#e0e0e0" stroke="#222" stroke-width="1"/>
+  <text x="251" y="228" text-anchor="middle" font-size="7" fill="#888">N</text>
+
+  <!-- Sun rays to south -->
+  <line x1="260" y1="109" x2="180" y2="175" stroke="#e8c840" stroke-width="1"/>
+  <line x1="250" y1="115" x2="200" y2="180" stroke="#e8c840" stroke-width="1"/>
+
+  <!-- Deciduous tree -->
+  <circle cx="95" cy="238" r="22" fill="#d4edda" stroke="#222" stroke-width="1.2"/>
+  <circle cx="82" cy="228" r="14" fill="#c3e6cb" stroke="#222" stroke-width="1"/>
+  <circle cx="108" cy="230" r="12" fill="#c3e6cb" stroke="#222" stroke-width="1"/>
+  <rect x="91" y="248" width="8" height="18" fill="#efefef" stroke="#222" stroke-width="1"/>
+  <text x="95" y="285" text-anchor="middle" font-size="8" fill="#555">drzewo lisciaste</text>
+
+  <!-- Compass -->
+  <g transform="translate(420,95)">
+    <circle cx="0" cy="0" r="28" fill="#fff" stroke="#222" stroke-width="1.2"/>
+    <text x="0" y="-14" text-anchor="middle" font-size="10" font-weight="600" fill="#222">N</text>
+    <text x="0" y="20" text-anchor="middle" font-size="10" font-weight="600" fill="#222">S</text>
+    <text x="18" y="4" font-size="9" fill="#666">E</text>
+    <text x="-18" y="4" font-size="9" fill="#666">W</text>
+    <polygon points="0,-18 -4,-8 4,-8" fill="#222"/>
+  </g>
+
+  <!-- Light rays label -->
+  <text x="310" y="175" font-size="9" fill="#888">naslonecznienie</text>
+  <text x="310" y="188" font-size="9" fill="#888">poludniowych okien</text>
+
+  <!-- Description -->
+  <text x="260" y="320" text-anchor="middle" font-size="10" fill="#444">Duze przeszklenia od poludnia zapewniaja zyski solarne zima.</text>
+  <text x="260" y="336" text-anchor="middle" font-size="10" fill="#444">Drzewa lisciaste daja cien latem, a zima przepuszczaja swiatlo.</text>
+  <text x="260" y="352" text-anchor="middle" font-size="10" fill="#444">Ograniczone okna od polnocy redukuja straty ciepla.</text>
+</svg>
