@@ -4,6 +4,16 @@
 **Zakres: ok. 10–20 stron A4**  
 **Język: polski**
 
+### Spis rysunków
+
+| Rys. | Tytuł | Rozdział |
+|------|-------|----------|
+| 1 | Położenie w regionie (Kraków, Tarnów, A4, DK 94, Dunajec) | Wstęp |
+| 2 | Etapy rozwoju historycznego (oś czasu) | Analiza rozwoju historycznego |
+| 3 | Trzy strefy urbanistyczne i dzielnice | Analiza przestrzenna |
+| 4 | Podział funkcji (mieszkanie, usługi, przemysł, kultura…) | Analiza funkcjonalna |
+| 5 | Drogi, obwodnice, kolej, powiązania z Tarnowem | Układ komunikacyjny |
+
 ---
 
 ## Spis treści

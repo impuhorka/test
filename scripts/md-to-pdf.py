@@ -124,6 +124,17 @@ figure img {
     height: auto;
 }
 
+.figure-svg {
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.figure-svg svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 figcaption {
     font-size: 9.5pt;
     color: #555;
@@ -155,6 +166,27 @@ def strip_toc_links(md_text: str) -> str:
     )
 
 
+def embed_svg_figures(html_body: str, base_dir: Path) -> str:
+    """Replace <img src="...svg"> with inline SVG so WeasyPrint renders figures."""
+    pattern = re.compile(
+        r'<img\s+[^>]*src="([^"]+\.svg)"[^>]*/?>',
+        re.IGNORECASE,
+    )
+
+    def repl(match: re.Match[str]) -> str:
+        src = match.group(1)
+        svg_path = (base_dir / src).resolve()
+        if not svg_path.is_file():
+            return match.group(0)
+        svg_content = svg_path.read_text(encoding="utf-8")
+        svg_content = re.sub(r"<\?xml[^?]*\?>", "", svg_content).strip()
+        return (
+            f'<div class="figure-svg">{svg_content}</div>'
+        )
+
+    return pattern.sub(repl, html_body)
+
+
 def convert(input_path: Path, output_path: Path) -> None:
     md_text = input_path.read_text(encoding="utf-8")
     md_text = strip_toc_links(md_text)
@@ -163,6 +195,7 @@ def convert(input_path: Path, output_path: Path) -> None:
         md_text,
         extensions=["tables", "sane_lists", "smarty"],
     )
+    html_body = embed_svg_figures(html_body, input_path.parent)
 
     html = f"""<!DOCTYPE html>
 <html lang="pl">
