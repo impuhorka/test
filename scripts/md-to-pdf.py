@@ -113,6 +113,25 @@ blockquote {
     color: #444;
 }
 
+figure {
+    margin: 1em 0 1.2em;
+    page-break-inside: avoid;
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    font-size: 9.5pt;
+    color: #555;
+    font-style: italic;
+    margin-top: 0.4em;
+    text-align: center;
+}
+
 .title-meta {
     text-align: center;
     margin-bottom: 1.5em;

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 480" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="820" height="480" fill="#f8f6f1"/>
+  <text x="410" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#1e3a5f">Etapy rozwoju przestrzennego Wojnicza</text>
+  <text x="410" y="54" text-anchor="middle" font-size="11" fill="#666">chronologia ekspansji urbanistycznej</text>
+
+  <!-- Timeline axis -->
+  <line x1="80" y1="400" x2="760" y2="400" stroke="#333" stroke-width="2"/>
+  <polygon points="760,400 752,396 752,404" fill="#333"/>
+
+  <!-- Phase blocks -->
+  <!-- X w grod -->
+  <circle cx="100" cy="400" r="6" fill="#1e3a5f"/>
+  <rect x="60" y="200" width="90" height="90" rx="45" fill="#1e3a5f" opacity="0.15" stroke="#1e3a5f"/>
+  <circle cx="105" cy="245" r="18" fill="#1e3a5f"/>
+  <text x="105" y="250" text-anchor="middle" font-size="8" fill="#fff">gród</text>
+  <text x="105" y="170" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a5f">X w.</text>
+  <text x="105" y="185" text-anchor="middle" font-size="9" fill="#666">gród kasztelaDski</text>
+  <text x="105" y="198" text-anchor="middle" font-size="9" fill="#666">na wyspie Dunajca</text>
+
+  <!-- 1278 -->
+  <circle cx="220" cy="400" r="6" fill="#1e3a5f"/>
+  <rect x="175" y="170" width="100" height="100" rx="8" fill="#5b8db8" opacity="0.2" stroke="#1e3a5f"/>
+  <text x="225" y="140" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a5f">1278</text>
+  <text x="225" y="155" text-anchor="middle" font-size="9" fill="#666">prawa miejskie</text>
+  <text x="225" y="168" text-anchor="middle" font-size="9" fill="#666">rynek · waBy</text>
+  <text x="225" y="230" text-anchor="middle" font-size="9" fill="#333">lokacja</text>
+  <text x="225" y="243" text-anchor="middle" font-size="9" fill="#333">magdeburska</text>
+
+  <!-- XV-XVI -->
+  <circle cx="360" cy="400" r="6" fill="#1e3a5f"/>
+  <rect x="300" y="150" width="130" height="130" rx="8" fill="#4a7c59" opacity="0.15" stroke="#4a7c59"/>
+  <text x="365" y="120" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a5f">XVXVI w.</text>
+  <text x="365" y="135" text-anchor="middle" font-size="9" fill="#666">kolegiata · ratusz</text>
+  <text x="365" y="148" text-anchor="middle" font-size="9" fill="#666">szkoBa · cechy</text>
+  <text x="365" y="220" text-anchor="middle" font-size="9" fill="#333">szczyt</text>
+  <text x="365" y="233" text-anchor="middle" font-size="9" fill="#333">rozwoju</text>
+
+  <!-- XIX -->
+  <circle cx="500" cy="400" r="6" fill="#1e3a5f"/>
+  <rect x="440" y="130" width="130" height="150" rx="8" fill="#c45c26" opacity="0.12" stroke="#c45c26"/>
+  <text x="505" y="100" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a5f">XIX w.</text>
+  <text x="505" y="115" text-anchor="middle" font-size="9" fill="#666">kolej omija miasto</text>
+  <text x="505" y="128" text-anchor="middle" font-size="9" fill="#666">Zamo[cie · dwór</text>
+  <text x="505" y="210" text-anchor="middle" font-size="9" fill="#333">peryferyjny</text>
+  <text x="505" y="223" text-anchor="middle" font-size="9" fill="#333">rozwój</text>
+
+  <!-- 1934 -->
+  <circle cx="600" cy="400" r="6" fill="#1e3a5f"/>
+  <text x="600" y="320" text-anchor="middle" font-size="10" font-weight="700" fill="#b85450">1934</text>
+  <text x="600" y="335" text-anchor="middle" font-size="9" fill="#666">utrata praw</text>
+  <text x="600" y="348" text-anchor="middle" font-size="9" fill="#666">miejskich</text>
+
+  <!-- 2007+ -->
+  <circle cx="720" cy="400" r="6" fill="#1e3a5f"/>
+  <rect x="650" y="110" width="140" height="170" rx="8" fill="#1e3a5f" opacity="0.1" stroke="#1e3a5f" stroke-width="2"/>
+  <text x="720" y="80" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a5f">2007dzi[</text>
+  <text x="720" y="95" text-anchor="middle" font-size="9" fill="#666">prawa miejskie</text>
+  <text x="720" y="108" text-anchor="middle" font-size="9" fill="#666">obwodnice · TSSE</text>
+  <text x="720" y="190" text-anchor="middle" font-size="9" fill="#333">rozwój</text>
+  <text x="720" y="203" text-anchor="middle" font-size="9" fill="#333">gospodarczy</text>
+  <text x="720" y="216" text-anchor="middle" font-size="9" fill="#333">i komunikacyjny</text>
+
+  <!-- Growth arrow -->
+  <path d="M130 280 Q410 220 690 180" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="410" y="210" text-anchor="middle" font-size="10" fill="#888">ekspansja zabudowy ’</text>
+
+  <text x="410" y="455" text-anchor="middle" font-size="10" fill="#888">O[ czasu  schemat orientacyjny</text>
+</svg>

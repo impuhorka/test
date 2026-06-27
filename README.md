@@ -4,8 +4,9 @@ Repozytorium zawiera opis części opisowej pracy z inventaryzacji miasta — pr
 
 ## Dokument
 
-- [`docs/wojnicz-inventaryzacja-miasta.pdf`](docs/wojnicz-inventaryzacja-miasta.pdf) — **PDF do wydruku** (19 stron A4, język polski)
+- [`docs/wojnicz-inventaryzacja-miasta.pdf`](docs/wojnicz-inventaryzacja-miasta.pdf) — **PDF do wydruku** (język polski, ze schematami)
 - [`docs/wojnicz-inventaryzacja-miasta.md`](docs/wojnicz-inventaryzacja-miasta.md) — źródło Markdown
+- [`docs/schemes/wojnicz/`](docs/schemes/wojnicz/) — schematy SVG (mapa regionalna, struktura, funkcje, komunikacja, rozwój historyczny)
 
 ### Regeneracja PDF
 

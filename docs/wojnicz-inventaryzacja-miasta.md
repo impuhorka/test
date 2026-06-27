@@ -49,6 +49,11 @@ Wojnicz to miasto położone w województwie małopolskim, w powiecie tarnowskim
 
 Wojnicz leży na **Podgórzu Bocheńskim**, w Kotlinie Sandomierskiej, na pograniczu Niziny Nadwiślańskiej i Pogórza Zachodniobeskidzkiego, u wylotu doliny Dunajca. Administracyjnie należy do powiatu tarnowskiego i województwa małopolskiego. Miasto pełni funkcję lokalnego ośrodka usługowego i administracyjnego dla otaczających wsi gminy (łączna liczba ludności gminy wynosi ok. **13 340 osób**). W kontekście regionalnym Wojnicz jest ważnym węzłem komunikacyjnym na szlaku Kraków – Tarnów – Nowy Sącz, w bezpośrednim sąsiedztwie autostrady A4 (węzeł Wierzchosławice) i drogi krajowej nr 94.
 
+<figure>
+<img src="schemes/wojnicz/01-mapa-regionalna.svg" alt="Mapa regionalna Wojnicza"/>
+<figcaption>Rys. 1. Położenie Wojnicza w regionie (schemat orientacyjny)</figcaption>
+</figure>
+
 ---
 
 ## 2. Rys historyczny miasta
@@ -151,6 +156,11 @@ Historia Wojnicza wyraźnie kształtuje jego współczesną strukturę:
 - **Ominięcie przez kolej (1856 r.)** spowodowało, że miasto nie stało się wielkim ośrodkiem przemysłowym — zachowało skalę małego miasteczka.
 - **Utrata praw miejskich (1934 r.)** spowolniła inwestycje, ale jednocześnie uchroniła zabytkowy układ przed wielkimi ingerencjami modernistycznymi.
 - **Obwodnice (2007, 2014 r.)** odciążyły centrum od ruchu tranzytowego, poprawiając jakość przestrzeni publicznej w historycznym rdzeniu.
+
+<figure>
+<img src="schemes/wojnicz/05-rozwoj-historyczny.svg" alt="Etapy rozwoju historycznego Wojnicza"/>
+<figcaption>Rys. 2. Etapy rozwoju przestrzennego Wojnicza (schemat chronologiczny)</figcaption>
+</figure>
 
 ---
 
@@ -262,6 +272,11 @@ W układzie przestrzennym Wojnicza wyróżnia się **trzy strefy**:
 
 Integralną część miasta stanowią dzielnice: Ratnawy, Zamoście, Błonie, Kolonia, Podlesie i Wolice.
 
+<figure>
+<img src="schemes/wojnicz/02-struktura-przestrzenna.svg" alt="Struktura przestrzenna Wojnicza"/>
+<figcaption>Rys. 3. Struktura przestrzenna miasta — trzy strefy i dzielnice (schemat)</figcaption>
+</figure>
+
 ### Dominanty przestrzenne
 
 Najważniejsze dominanty:
@@ -347,6 +362,11 @@ Oferta rekreacyjna jest skromna, lecz uzupełniana przez tereny wiejskie otaczaj
 ### Funkcja rolnicza
 
 Na terenach peryferyjnych i w części gminy wiejskiej utrzymuje się **funkcja rolnicza** — pola uprawne, łąki i sady. Po II wojnie światowej rozwijało się tu także wykształcenie rolnicze. W samym mieście rolnictwo ma charakter residualny.
+
+<figure>
+<img src="schemes/wojnicz/03-mapa-funkcjonalna.svg" alt="Mapa funkcjonalna Wojnicza"/>
+<figcaption>Rys. 4. Mapa funkcjonalna Wojnicza (schemat podziału funkcji)</figcaption>
+</figure>
 
 ---
 
@@ -446,6 +466,11 @@ Infrastruktura rowerowa jest **niewystarczająca** — brak wydzielonych ścież
 ### Dostępność komunikacyjna
 
 Dostępność komunikacyjna Wojnicza oceniana jest **dobrze** w skali regionalnej (A4, DK 94, obwodnice) i **umiarkowanie** w skali lokalnej (ograniczenia transportu publicznego, brak infrastruktury rowerowej, stacja kolejowa poza centrum).
+
+<figure>
+<img src="schemes/wojnicz/04-uklad-komunikacyjny.svg" alt="Układ komunikacyjny Wojnicza"/>
+<figcaption>Rys. 5. Układ komunikacyjny — drogi, obwodnice, kolej i powiązania regionalne (schemat)</figcaption>
+</figure>
 
 ---
 
