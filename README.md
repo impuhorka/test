@@ -4,7 +4,14 @@ Repozytorium zawiera opis części opisowej pracy z inventaryzacji miasta — pr
 
 ## Dokument
 
-- [`docs/wojnicz-inventaryzacja-miasta.md`](docs/wojnicz-inventaryzacja-miasta.md) — pełny opis części opisowej (ok. 10–20 stron A4, język polski)
+- [`docs/wojnicz-inventaryzacja-miasta.pdf`](docs/wojnicz-inventaryzacja-miasta.pdf) — **PDF do wydruku** (19 stron A4, język polski)
+- [`docs/wojnicz-inventaryzacja-miasta.md`](docs/wojnicz-inventaryzacja-miasta.md) — źródło Markdown
+
+### Regeneracja PDF
+
+```bash
+python3 scripts/md-to-pdf.py docs/wojnicz-inventaryzacja-miasta.md
+```
 
 ## Zakres opracowania
 
